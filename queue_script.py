@@ -26,15 +26,36 @@ import numpy as np
 MIN_FREE_MEMORY = 8000   # Unit MB
 MAX_GPU_UTIL = 20   # Unit %
 NUM_GPUS = 1
-#################### command ####################
-def get_command(free_gpu_id, avg_free_memory, avg_gpu_util):
+########################## command ##########################
+def run_command(free_gpu_id, avg_free_memory, avg_gpu_util):
+    """
+    Input:
+        free_gpu_id: numpy.array(int), id of gpu which satisfy the condition
+        avg_free_memory: numpy.array(int), len=gpu_num
+        avg_gpu_util: numpy.array(int), len=gpu_num
+    Output:
+        return_code: int, 0 for success, else failure
+        task_out: str, stdout of the command
+        task_err: str, stderr of the command
+    """
+    ### command ###
+    cmd = 'nohup bash ./grounding/LGI4temporalgrounding/scripts/train_model.sh LGI tgn_lgi charades 0 4 0 2>&1 &'
+    # Generating shell command
     for gid in range(len(avg_free_memory)):
         if gid not in free_gpu_id:
             avg_free_memory[gid] = 0
     max_mem_id = np.argmax(avg_free_memory)
-    CMD_prefix = 'CUDA_VISIBLE_DEVICES=%d' % max_mem_id    # use GPU with maximum GPU memory
-    CMD = 'nohup bash ./grounding/LGI4temporalgrounding/scripts/train_model.sh LGI tgn_lgi charades 0 4 0 2>&1 &'
-    return CMD_prefix + CMD
+    CMD_prefix = 'CUDA_VISIBLE_DEVICES=%d ' % max_mem_id    # use GPU with maximum GPU memory
+    #CMD = CMD_prefix + cmd
+    CMD = 'python'
+
+    # launch subprocess
+    task = subprocess.Popen(CMD, shell=True, 
+                            stdout=subprocess.PIPE, stderr=subprocess.PIPE, 
+                            universal_newlines=True)  # if universal_newlines=False the output will be in binary format
+    return_code = task.poll()
+    task_out, task_err = task.communicate()
+    return return_code, task_out, task_err
 ##############################################################
 
 def send_mail(mailtype, extra_subject=None, extra_content=None, extra_dict=None):
@@ -124,7 +145,7 @@ def avg_gpu_info(measure_duration, print_info=False):
     return avg_free_memory, avg_gpu_util
  
 def queue_protocol(args):
-    free_gpu_id = []
+    free_gpu_id = None
     free_gpu_info = ""
     # monitor and judge condition
     while True:
@@ -144,18 +165,13 @@ def queue_protocol(args):
         else:
             logging.info('<<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>')
             time.sleep(args.monitor_interval)
-    # get command
-    cmd = get_command(free_gpu_id, avg_free_memory, avg_gpu_util)
-
-    os.system('rm tmp')
-    print('\n' + cmd)
-    send_mail(mailtype='report', extra_subject="恭喜，服务器空闲！正在提交程序... ...", extra_content="白面鸮监测到iLearn服务器空闲:\n" + free_gpu_info)
     
-    task = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, bufsize=1, shell=True)
-    print('>>>>>>>Waing for the task process<<<<<<<')
-    task.wait()
-    out, err = task.communicate()
-    return task.poll(), out, err
+    # run command
+    send_mail(mailtype='report', extra_subject="恭喜，服务器空闲！正在提交程序... ...", extra_content="白面鸮监测到iLearn服务器空闲:\n" + free_gpu_info)
+    logging.info('>>>>>>>Waitng for the task<<<<<<<')
+    return_code, task_out, task_err = run_command(free_gpu_id, avg_free_memory, avg_gpu_util)
+
+    return return_code, task_out, task_err
 
 
 def argument_parser(epilog=None):
@@ -163,10 +179,13 @@ def argument_parser(epilog=None):
 
     parser.add_argument("--monitor-interval", type=int, default=60, help="interval of checking gpu information (sec)")
     parser.add_argument("--measure-duration", type=int, default=10, help="duration of time-averaged gpu information (sec)")
+    parser.add_argument("--allow-retry", action="store_false", help="Whether to retry when error occurred")
     parser.add_argument("--max-retry", type=int, default=1, help="maximun retry of the command")
+
     parser.add_argument("--min-memory", type=int, default=MIN_FREE_MEMORY, help="minimum gpu free memory of a gpu (MB)")
     parser.add_argument("--max-util", type=int, default=MAX_GPU_UTIL, help="maximum gpu utilization rate of a gpu (%)")
     parser.add_argument("--min-gpu", type=int, default=1, help="minimun gpu number that satisfy condition")
+    
     #parser.add_argument("--eval-only", action="store_true", help="perform evaluation only")
 
     return parser
@@ -175,34 +194,41 @@ def argument_parser(epilog=None):
 if __name__ == '__main__':
     args = argument_parser().parse_args()
     #Initialization
-    logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+    logging.basicConfig(level=logging.INFO,
+                        filename='./queue.log',
+                        filemode='a',
+                        format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
     logging.info("PID:%d" % os.getpid())
-    logging.info("Command Line Args:\n" + args)
+    print("Command Line Args:\n", args)
     exception_list = {}
-    total_exception = 0
+    total_retry = 0
     #Queue loop
     while True:
         try:
-            return_code, out, err = queue_protocol(args)  # Caution, return value is of binary format
+            return_code, out, err = queue_protocol(args)
             if return_code is not 0: # If failed, send report and queue again
                 print('>>>>>>>>>>>>>>>>>>>>Task error occured:<<<<<<<<<<<<<<<<<<')
-                logging.error(str(err, 'utf-8'))
-                send_mail(mailtype='failed', extra_content=str(err, 'utf-8'))
+                logging.error(err)
+                send_mail(mailtype='failed', extra_content=err)
+                if not args.allow_retry:
+                    exit(0)
+                elif total_retry >= args.max_retry:
+                    logging.critical('程序尝试次数超过%d次，自动终止' % args.max_retry)
+                    send_mail(mailtype='report', extra_subject='程序尝试次数超过%d次，自动终止' % args.max_retry, extra_dict = exception_list)
+                    exit(1)
             else:   # If success, send report and exit
-                send_mail(mailtype='report', extra_subject=' 任务运行结束', extra_content=str(out, 'utf-8'))
+                send_mail(mailtype='report', extra_subject=' 任务运行结束', extra_content=out)
                 exit(0)
-        except Exception as e:
-            print('>>>>>>>>>>>>>>>>>>>>Exception:<<<<<<<<<<<<<<<<<<')
+        except Exception as e:  # Handle unexpected error
+            print('>>>>>>>>>>>>>>>>>>>>Exception<<<<<<<<<<<<<<<<<<')
             traceback.print_exc()
             logging.error(str(e))
-            total_exception = total_exception + 1
+            total_exception = total_retry + 1
             if e in exception_list:
                 exception_list[e] = exception_list[e] + 1
             else:
                 exception_list[e] = 1
-                send_mail(mailtype='failed', extra_content=str(e))
-        if total_exception>=args.max_retry:
-            logging.critical('程序尝试次数超过%d次，自动终止' % args.max_retry)
-            send_mail(mailtype='report', extra_subject='程序尝试次数超过%d次，自动终止' % args.max_retry, extra_dict = exception_list)
-            exit(1)
+                send_mail(mailtype='failed', extra_content="Unknown exception:\n"+str(e))
+        
+        total_retry += 1
         time.sleep(args.monitor_interval)

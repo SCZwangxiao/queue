@@ -1,0 +1,1922 @@
+2020-08-13 12:15:45,689 - root - INFO - PID:15846
+2020-08-13 12:15:55,786 - root - INFO - 2020-08-13 12:15:55
+2020-08-13 12:15:55,786 - root - INFO - GPU3: gpu util:93% | free memory:1023MiB
+2020-08-13 12:15:55,786 - root - INFO - GPU3: gpu util:90% | free memory:5721MiB
+2020-08-13 12:15:55,786 - root - INFO - GPU3: gpu util:77% | free memory:9111MiB
+2020-08-13 12:15:55,786 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 12:15:55,787 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 12:16:45,376 - root - INFO - PID:17345
+2020-08-13 12:16:55,583 - root - INFO - 2020-08-13 12:16:55
+2020-08-13 12:16:55,583 - root - INFO - GPU3: gpu util:96% | free memory:1023MiB
+2020-08-13 12:16:55,583 - root - INFO - GPU3: gpu util:92% | free memory:5721MiB
+2020-08-13 12:16:55,583 - root - INFO - GPU3: gpu util:74% | free memory:9111MiB
+2020-08-13 12:16:55,583 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 12:16:55,583 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 12:18:05,699 - root - INFO - 2020-08-13 12:18:05
+2020-08-13 12:18:05,699 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 12:18:05,700 - root - INFO - GPU3: gpu util:81% | free memory:5721MiB
+2020-08-13 12:18:05,700 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 12:18:05,700 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 12:18:05,700 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 12:19:15,828 - root - INFO - 2020-08-13 12:19:15
+2020-08-13 12:19:15,828 - root - INFO - GPU3: gpu util:91% | free memory:1023MiB
+2020-08-13 12:19:15,828 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 12:19:15,828 - root - INFO - GPU3: gpu util:86% | free memory:9111MiB
+2020-08-13 12:19:15,828 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 12:19:15,828 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 12:20:25,979 - root - INFO - 2020-08-13 12:20:25
+2020-08-13 12:20:25,979 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 12:20:25,979 - root - INFO - GPU3: gpu util:85% | free memory:5721MiB
+2020-08-13 12:20:25,979 - root - INFO - GPU3: gpu util:73% | free memory:9111MiB
+2020-08-13 12:20:25,979 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 12:20:25,979 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 12:21:36,053 - root - INFO - 2020-08-13 12:21:36
+2020-08-13 12:21:36,053 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 12:21:36,053 - root - INFO - GPU3: gpu util:86% | free memory:5721MiB
+2020-08-13 12:21:36,053 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 12:21:36,053 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 12:21:36,053 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 12:22:46,162 - root - INFO - 2020-08-13 12:22:46
+2020-08-13 12:22:46,162 - root - INFO - GPU3: gpu util:95% | free memory:1023MiB
+2020-08-13 12:22:46,162 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 12:22:46,163 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 12:22:46,163 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 12:22:46,163 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 12:23:56,287 - root - INFO - 2020-08-13 12:23:56
+2020-08-13 12:23:56,287 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 12:23:56,287 - root - INFO - GPU3: gpu util:83% | free memory:5721MiB
+2020-08-13 12:23:56,287 - root - INFO - GPU3: gpu util:76% | free memory:9111MiB
+2020-08-13 12:23:56,288 - root - INFO - GPU3: gpu util:80% | free memory:1035MiB
+2020-08-13 12:23:56,288 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 12:25:06,411 - root - INFO - 2020-08-13 12:25:06
+2020-08-13 12:25:06,412 - root - INFO - GPU3: gpu util:95% | free memory:1023MiB
+2020-08-13 12:25:06,412 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 12:25:06,412 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 12:25:06,412 - root - INFO - GPU3: gpu util:77% | free memory:1035MiB
+2020-08-13 12:25:06,412 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 12:26:16,543 - root - INFO - 2020-08-13 12:26:16
+2020-08-13 12:26:16,543 - root - INFO - GPU3: gpu util:95% | free memory:1023MiB
+2020-08-13 12:26:16,543 - root - INFO - GPU3: gpu util:80% | free memory:5721MiB
+2020-08-13 12:26:16,543 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 12:26:16,543 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 12:26:16,543 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 12:27:26,628 - root - INFO - 2020-08-13 12:27:26
+2020-08-13 12:27:26,629 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 12:27:26,629 - root - INFO - GPU3: gpu util:86% | free memory:5721MiB
+2020-08-13 12:27:26,629 - root - INFO - GPU3: gpu util:77% | free memory:9111MiB
+2020-08-13 12:27:26,629 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 12:27:26,629 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 12:28:36,762 - root - INFO - 2020-08-13 12:28:36
+2020-08-13 12:28:36,762 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 12:28:36,762 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 12:28:36,762 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 12:28:36,762 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 12:28:36,762 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 12:29:46,888 - root - INFO - 2020-08-13 12:29:46
+2020-08-13 12:29:46,889 - root - INFO - GPU3: gpu util:91% | free memory:1023MiB
+2020-08-13 12:29:46,889 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 12:29:46,889 - root - INFO - GPU3: gpu util:80% | free memory:9111MiB
+2020-08-13 12:29:46,889 - root - INFO - GPU3: gpu util:90% | free memory:1035MiB
+2020-08-13 12:29:46,889 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 12:30:57,034 - root - INFO - 2020-08-13 12:30:57
+2020-08-13 12:30:57,035 - root - INFO - GPU3: gpu util:92% | free memory:1023MiB
+2020-08-13 12:30:57,035 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 12:30:57,035 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 12:30:57,035 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 12:30:57,035 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 12:32:07,156 - root - INFO - 2020-08-13 12:32:07
+2020-08-13 12:32:07,156 - root - INFO - GPU3: gpu util:96% | free memory:1023MiB
+2020-08-13 12:32:07,156 - root - INFO - GPU3: gpu util:85% | free memory:5721MiB
+2020-08-13 12:32:07,156 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 12:32:07,156 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 12:32:07,156 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 12:33:17,318 - root - INFO - 2020-08-13 12:33:17
+2020-08-13 12:33:17,319 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 12:33:17,319 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 12:33:17,319 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 12:33:17,319 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 12:33:17,319 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 12:34:27,416 - root - INFO - 2020-08-13 12:34:27
+2020-08-13 12:34:27,417 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 12:34:27,417 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 12:34:27,417 - root - INFO - GPU3: gpu util:81% | free memory:9111MiB
+2020-08-13 12:34:27,417 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 12:34:27,417 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 12:35:37,523 - root - INFO - 2020-08-13 12:35:37
+2020-08-13 12:35:37,524 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 12:35:37,524 - root - INFO - GPU3: gpu util:80% | free memory:5721MiB
+2020-08-13 12:35:37,524 - root - INFO - GPU3: gpu util:74% | free memory:9111MiB
+2020-08-13 12:35:37,524 - root - INFO - GPU3: gpu util:80% | free memory:1035MiB
+2020-08-13 12:35:37,524 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 12:36:47,634 - root - INFO - 2020-08-13 12:36:47
+2020-08-13 12:36:47,634 - root - INFO - GPU3: gpu util:88% | free memory:1023MiB
+2020-08-13 12:36:47,634 - root - INFO - GPU3: gpu util:94% | free memory:5721MiB
+2020-08-13 12:36:47,634 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 12:36:47,634 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 12:36:47,635 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 12:37:57,778 - root - INFO - 2020-08-13 12:37:57
+2020-08-13 12:37:57,778 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 12:37:57,778 - root - INFO - GPU3: gpu util:83% | free memory:5721MiB
+2020-08-13 12:37:57,778 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 12:37:57,778 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 12:37:57,778 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 12:39:07,893 - root - INFO - 2020-08-13 12:39:07
+2020-08-13 12:39:07,893 - root - INFO - GPU3: gpu util:91% | free memory:1023MiB
+2020-08-13 12:39:07,893 - root - INFO - GPU3: gpu util:86% | free memory:5721MiB
+2020-08-13 12:39:07,893 - root - INFO - GPU3: gpu util:69% | free memory:9111MiB
+2020-08-13 12:39:07,893 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 12:39:07,894 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 12:40:17,992 - root - INFO - 2020-08-13 12:40:17
+2020-08-13 12:40:17,992 - root - INFO - GPU3: gpu util:92% | free memory:1023MiB
+2020-08-13 12:40:17,992 - root - INFO - GPU3: gpu util:86% | free memory:5721MiB
+2020-08-13 12:40:17,992 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 12:40:17,992 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 12:40:17,993 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 12:41:28,110 - root - INFO - 2020-08-13 12:41:28
+2020-08-13 12:41:28,110 - root - INFO - GPU3: gpu util:95% | free memory:1023MiB
+2020-08-13 12:41:28,110 - root - INFO - GPU3: gpu util:86% | free memory:5721MiB
+2020-08-13 12:41:28,110 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 12:41:28,111 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 12:41:28,111 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 12:42:38,278 - root - INFO - 2020-08-13 12:42:38
+2020-08-13 12:42:38,278 - root - INFO - GPU3: gpu util:95% | free memory:1023MiB
+2020-08-13 12:42:38,278 - root - INFO - GPU3: gpu util:86% | free memory:5721MiB
+2020-08-13 12:42:38,278 - root - INFO - GPU3: gpu util:70% | free memory:9111MiB
+2020-08-13 12:42:38,278 - root - INFO - GPU3: gpu util:92% | free memory:1035MiB
+2020-08-13 12:42:38,278 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 12:43:48,378 - root - INFO - 2020-08-13 12:43:48
+2020-08-13 12:43:48,378 - root - INFO - GPU3: gpu util:85% | free memory:1023MiB
+2020-08-13 12:43:48,378 - root - INFO - GPU3: gpu util:85% | free memory:5721MiB
+2020-08-13 12:43:48,378 - root - INFO - GPU3: gpu util:81% | free memory:9111MiB
+2020-08-13 12:43:48,378 - root - INFO - GPU3: gpu util:91% | free memory:1035MiB
+2020-08-13 12:43:48,379 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 12:44:58,496 - root - INFO - 2020-08-13 12:44:58
+2020-08-13 12:44:58,496 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 12:44:58,496 - root - INFO - GPU3: gpu util:71% | free memory:5721MiB
+2020-08-13 12:44:58,496 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 12:44:58,496 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 12:44:58,497 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 12:46:08,620 - root - INFO - 2020-08-13 12:46:08
+2020-08-13 12:46:08,620 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 12:46:08,620 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 12:46:08,620 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 12:46:08,620 - root - INFO - GPU3: gpu util:86% | free memory:1035MiB
+2020-08-13 12:46:08,621 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 12:47:18,748 - root - INFO - 2020-08-13 12:47:18
+2020-08-13 12:47:18,748 - root - INFO - GPU3: gpu util:93% | free memory:1023MiB
+2020-08-13 12:47:18,748 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 12:47:18,748 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 12:47:18,748 - root - INFO - GPU3: gpu util:61% | free memory:1035MiB
+2020-08-13 12:47:18,749 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 12:48:28,883 - root - INFO - 2020-08-13 12:48:28
+2020-08-13 12:48:28,884 - root - INFO - GPU3: gpu util:95% | free memory:1023MiB
+2020-08-13 12:48:28,884 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 12:48:28,884 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 12:48:28,884 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 12:48:28,884 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 12:49:39,051 - root - INFO - 2020-08-13 12:49:39
+2020-08-13 12:49:39,051 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 12:49:39,051 - root - INFO - GPU3: gpu util:84% | free memory:5721MiB
+2020-08-13 12:49:39,051 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 12:49:39,051 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 12:49:39,051 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 12:50:49,156 - root - INFO - 2020-08-13 12:50:49
+2020-08-13 12:50:49,156 - root - INFO - GPU3: gpu util:91% | free memory:1023MiB
+2020-08-13 12:50:49,156 - root - INFO - GPU3: gpu util:87% | free memory:5721MiB
+2020-08-13 12:50:49,156 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 12:50:49,156 - root - INFO - GPU3: gpu util:90% | free memory:1035MiB
+2020-08-13 12:50:49,156 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 12:51:59,282 - root - INFO - 2020-08-13 12:51:59
+2020-08-13 12:51:59,282 - root - INFO - GPU3: gpu util:92% | free memory:1023MiB
+2020-08-13 12:51:59,282 - root - INFO - GPU3: gpu util:87% | free memory:5721MiB
+2020-08-13 12:51:59,282 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 12:51:59,282 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 12:51:59,282 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 12:53:09,408 - root - INFO - 2020-08-13 12:53:09
+2020-08-13 12:53:09,409 - root - INFO - GPU3: gpu util:95% | free memory:1023MiB
+2020-08-13 12:53:09,409 - root - INFO - GPU3: gpu util:76% | free memory:5721MiB
+2020-08-13 12:53:09,409 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 12:53:09,409 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 12:53:09,409 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 12:54:19,543 - root - INFO - 2020-08-13 12:54:19
+2020-08-13 12:54:19,543 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 12:54:19,543 - root - INFO - GPU3: gpu util:86% | free memory:5721MiB
+2020-08-13 12:54:19,543 - root - INFO - GPU3: gpu util:68% | free memory:9111MiB
+2020-08-13 12:54:19,544 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 12:54:19,544 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 12:55:29,686 - root - INFO - 2020-08-13 12:55:29
+2020-08-13 12:55:29,687 - root - INFO - GPU3: gpu util:93% | free memory:1023MiB
+2020-08-13 12:55:29,687 - root - INFO - GPU3: gpu util:87% | free memory:5721MiB
+2020-08-13 12:55:29,687 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 12:55:29,687 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 12:55:29,687 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 12:56:39,856 - root - INFO - 2020-08-13 12:56:39
+2020-08-13 12:56:39,856 - root - INFO - GPU3: gpu util:86% | free memory:1023MiB
+2020-08-13 12:56:39,856 - root - INFO - GPU3: gpu util:90% | free memory:5721MiB
+2020-08-13 12:56:39,856 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 12:56:39,856 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 12:56:39,857 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 12:57:49,991 - root - INFO - 2020-08-13 12:57:49
+2020-08-13 12:57:49,991 - root - INFO - GPU3: gpu util:93% | free memory:1023MiB
+2020-08-13 12:57:49,991 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 12:57:49,991 - root - INFO - GPU3: gpu util:66% | free memory:9111MiB
+2020-08-13 12:57:49,991 - root - INFO - GPU3: gpu util:82% | free memory:1035MiB
+2020-08-13 12:57:49,992 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 12:59:00,089 - root - INFO - 2020-08-13 12:59:00
+2020-08-13 12:59:00,089 - root - INFO - GPU3: gpu util:96% | free memory:1023MiB
+2020-08-13 12:59:00,090 - root - INFO - GPU3: gpu util:85% | free memory:5721MiB
+2020-08-13 12:59:00,090 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 12:59:00,090 - root - INFO - GPU3: gpu util:73% | free memory:1035MiB
+2020-08-13 12:59:00,090 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:00:10,202 - root - INFO - 2020-08-13 13:00:10
+2020-08-13 13:00:10,202 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 13:00:10,202 - root - INFO - GPU3: gpu util:91% | free memory:5721MiB
+2020-08-13 13:00:10,203 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 13:00:10,203 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 13:00:10,203 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:01:20,329 - root - INFO - 2020-08-13 13:01:20
+2020-08-13 13:01:20,329 - root - INFO - GPU3: gpu util:93% | free memory:1023MiB
+2020-08-13 13:01:20,329 - root - INFO - GPU3: gpu util:90% | free memory:5721MiB
+2020-08-13 13:01:20,329 - root - INFO - GPU3: gpu util:66% | free memory:9111MiB
+2020-08-13 13:01:20,329 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 13:01:20,329 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:02:30,464 - root - INFO - 2020-08-13 13:02:30
+2020-08-13 13:02:30,464 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 13:02:30,465 - root - INFO - GPU3: gpu util:74% | free memory:5721MiB
+2020-08-13 13:02:30,465 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 13:02:30,465 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 13:02:30,465 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:03:40,608 - root - INFO - 2020-08-13 13:03:40
+2020-08-13 13:03:40,609 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 13:03:40,609 - root - INFO - GPU3: gpu util:90% | free memory:5721MiB
+2020-08-13 13:03:40,610 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 13:03:40,610 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 13:03:40,610 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:04:50,713 - root - INFO - 2020-08-13 13:04:50
+2020-08-13 13:04:50,713 - root - INFO - GPU3: gpu util:93% | free memory:1023MiB
+2020-08-13 13:04:50,713 - root - INFO - GPU3: gpu util:86% | free memory:5721MiB
+2020-08-13 13:04:50,713 - root - INFO - GPU3: gpu util:74% | free memory:9111MiB
+2020-08-13 13:04:50,713 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 13:04:50,713 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:06:00,872 - root - INFO - 2020-08-13 13:06:00
+2020-08-13 13:06:00,873 - root - INFO - GPU3: gpu util:95% | free memory:1023MiB
+2020-08-13 13:06:00,873 - root - INFO - GPU3: gpu util:86% | free memory:5721MiB
+2020-08-13 13:06:00,873 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 13:06:00,873 - root - INFO - GPU3: gpu util:90% | free memory:1035MiB
+2020-08-13 13:06:00,873 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:07:11,004 - root - INFO - 2020-08-13 13:07:11
+2020-08-13 13:07:11,005 - root - INFO - GPU3: gpu util:93% | free memory:1023MiB
+2020-08-13 13:07:11,005 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 13:07:11,005 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 13:07:11,005 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 13:07:11,005 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:08:21,104 - root - INFO - 2020-08-13 13:08:21
+2020-08-13 13:08:21,104 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 13:08:21,104 - root - INFO - GPU3: gpu util:82% | free memory:5721MiB
+2020-08-13 13:08:21,104 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 13:08:21,104 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 13:08:21,104 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:09:31,195 - root - INFO - 2020-08-13 13:09:31
+2020-08-13 13:09:31,195 - root - INFO - GPU3: gpu util:92% | free memory:1023MiB
+2020-08-13 13:09:31,195 - root - INFO - GPU3: gpu util:86% | free memory:5721MiB
+2020-08-13 13:09:31,195 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 13:09:31,195 - root - INFO - GPU3: gpu util:70% | free memory:1035MiB
+2020-08-13 13:09:31,195 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:10:41,310 - root - INFO - 2020-08-13 13:10:41
+2020-08-13 13:10:41,310 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 13:10:41,310 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 13:10:41,310 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 13:10:41,310 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 13:10:41,311 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:11:51,445 - root - INFO - 2020-08-13 13:11:51
+2020-08-13 13:11:51,445 - root - INFO - GPU3: gpu util:93% | free memory:1023MiB
+2020-08-13 13:11:51,445 - root - INFO - GPU3: gpu util:78% | free memory:5721MiB
+2020-08-13 13:11:51,445 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 13:11:51,446 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 13:11:51,446 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:13:01,568 - root - INFO - 2020-08-13 13:13:01
+2020-08-13 13:13:01,568 - root - INFO - GPU3: gpu util:96% | free memory:1023MiB
+2020-08-13 13:13:01,568 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 13:13:01,568 - root - INFO - GPU3: gpu util:75% | free memory:9111MiB
+2020-08-13 13:13:01,569 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 13:13:01,569 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:14:11,672 - root - INFO - 2020-08-13 13:14:11
+2020-08-13 13:14:11,673 - root - INFO - GPU3: gpu util:93% | free memory:1023MiB
+2020-08-13 13:14:11,673 - root - INFO - GPU3: gpu util:87% | free memory:5721MiB
+2020-08-13 13:14:11,673 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 13:14:11,673 - root - INFO - GPU3: gpu util:90% | free memory:1035MiB
+2020-08-13 13:14:11,673 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:15:21,792 - root - INFO - 2020-08-13 13:15:21
+2020-08-13 13:15:21,792 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 13:15:21,792 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 13:15:21,792 - root - INFO - GPU3: gpu util:81% | free memory:9111MiB
+2020-08-13 13:15:21,792 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 13:15:21,792 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:16:31,956 - root - INFO - 2020-08-13 13:16:31
+2020-08-13 13:16:31,956 - root - INFO - GPU3: gpu util:95% | free memory:1023MiB
+2020-08-13 13:16:31,956 - root - INFO - GPU3: gpu util:86% | free memory:5721MiB
+2020-08-13 13:16:31,956 - root - INFO - GPU3: gpu util:73% | free memory:9111MiB
+2020-08-13 13:16:31,956 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 13:16:31,956 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:17:42,039 - root - INFO - 2020-08-13 13:17:42
+2020-08-13 13:17:42,039 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 13:17:42,039 - root - INFO - GPU3: gpu util:85% | free memory:5721MiB
+2020-08-13 13:17:42,039 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 13:17:42,039 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 13:17:42,040 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:18:52,142 - root - INFO - 2020-08-13 13:18:52
+2020-08-13 13:18:52,143 - root - INFO - GPU3: gpu util:96% | free memory:1023MiB
+2020-08-13 13:18:52,143 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 13:18:52,143 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 13:18:52,143 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 13:18:52,143 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:20:02,272 - root - INFO - 2020-08-13 13:20:02
+2020-08-13 13:20:02,272 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 13:20:02,272 - root - INFO - GPU3: gpu util:75% | free memory:5721MiB
+2020-08-13 13:20:02,273 - root - INFO - GPU3: gpu util:74% | free memory:9111MiB
+2020-08-13 13:20:02,273 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 13:20:02,273 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:21:12,388 - root - INFO - 2020-08-13 13:21:12
+2020-08-13 13:21:12,388 - root - INFO - GPU3: gpu util:91% | free memory:1023MiB
+2020-08-13 13:21:12,389 - root - INFO - GPU3: gpu util:87% | free memory:5721MiB
+2020-08-13 13:21:12,389 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 13:21:12,389 - root - INFO - GPU3: gpu util:74% | free memory:1035MiB
+2020-08-13 13:21:12,389 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:22:22,546 - root - INFO - 2020-08-13 13:22:22
+2020-08-13 13:22:22,546 - root - INFO - GPU3: gpu util:95% | free memory:1023MiB
+2020-08-13 13:22:22,547 - root - INFO - GPU3: gpu util:85% | free memory:5721MiB
+2020-08-13 13:22:22,547 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 13:22:22,547 - root - INFO - GPU3: gpu util:92% | free memory:1035MiB
+2020-08-13 13:22:22,547 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:23:32,680 - root - INFO - 2020-08-13 13:23:32
+2020-08-13 13:23:32,680 - root - INFO - GPU3: gpu util:96% | free memory:1023MiB
+2020-08-13 13:23:32,680 - root - INFO - GPU3: gpu util:83% | free memory:5721MiB
+2020-08-13 13:23:32,680 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 13:23:32,681 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 13:23:32,681 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:24:42,784 - root - INFO - 2020-08-13 13:24:42
+2020-08-13 13:24:42,784 - root - INFO - GPU3: gpu util:96% | free memory:1023MiB
+2020-08-13 13:24:42,785 - root - INFO - GPU3: gpu util:90% | free memory:5721MiB
+2020-08-13 13:24:42,785 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 13:24:42,785 - root - INFO - GPU3: gpu util:91% | free memory:1035MiB
+2020-08-13 13:24:42,785 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:25:52,925 - root - INFO - 2020-08-13 13:25:52
+2020-08-13 13:25:52,925 - root - INFO - GPU3: gpu util:92% | free memory:1023MiB
+2020-08-13 13:25:52,925 - root - INFO - GPU3: gpu util:86% | free memory:5721MiB
+2020-08-13 13:25:52,925 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 13:25:52,925 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 13:25:52,925 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:27:03,094 - root - INFO - 2020-08-13 13:27:03
+2020-08-13 13:27:03,094 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 13:27:03,094 - root - INFO - GPU3: gpu util:86% | free memory:5721MiB
+2020-08-13 13:27:03,094 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 13:27:03,094 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 13:27:03,094 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:28:13,234 - root - INFO - 2020-08-13 13:28:13
+2020-08-13 13:28:13,235 - root - INFO - GPU3: gpu util:93% | free memory:1023MiB
+2020-08-13 13:28:13,235 - root - INFO - GPU3: gpu util:86% | free memory:5721MiB
+2020-08-13 13:28:13,235 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 13:28:13,235 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 13:28:13,235 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:29:23,362 - root - INFO - 2020-08-13 13:29:23
+2020-08-13 13:29:23,363 - root - INFO - GPU3: gpu util:83% | free memory:1023MiB
+2020-08-13 13:29:23,363 - root - INFO - GPU3: gpu util:81% | free memory:5721MiB
+2020-08-13 13:29:23,363 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 13:29:23,363 - root - INFO - GPU3: gpu util:90% | free memory:1035MiB
+2020-08-13 13:29:23,363 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:30:33,485 - root - INFO - 2020-08-13 13:30:33
+2020-08-13 13:30:33,485 - root - INFO - GPU3: gpu util:96% | free memory:1023MiB
+2020-08-13 13:30:33,485 - root - INFO - GPU3: gpu util:92% | free memory:5721MiB
+2020-08-13 13:30:33,485 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 13:30:33,485 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 13:30:33,485 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:31:43,589 - root - INFO - 2020-08-13 13:31:43
+2020-08-13 13:31:43,589 - root - INFO - GPU3: gpu util:93% | free memory:1023MiB
+2020-08-13 13:31:43,589 - root - INFO - GPU3: gpu util:94% | free memory:5721MiB
+2020-08-13 13:31:43,589 - root - INFO - GPU3: gpu util:72% | free memory:9111MiB
+2020-08-13 13:31:43,589 - root - INFO - GPU3: gpu util:80% | free memory:1035MiB
+2020-08-13 13:31:43,589 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:32:53,706 - root - INFO - 2020-08-13 13:32:53
+2020-08-13 13:32:53,707 - root - INFO - GPU3: gpu util:93% | free memory:1023MiB
+2020-08-13 13:32:53,707 - root - INFO - GPU3: gpu util:87% | free memory:5721MiB
+2020-08-13 13:32:53,707 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 13:32:53,707 - root - INFO - GPU3: gpu util:75% | free memory:1035MiB
+2020-08-13 13:32:53,707 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:34:03,843 - root - INFO - 2020-08-13 13:34:03
+2020-08-13 13:34:03,843 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 13:34:03,843 - root - INFO - GPU3: gpu util:90% | free memory:5721MiB
+2020-08-13 13:34:03,843 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 13:34:03,843 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 13:34:03,843 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:35:13,972 - root - INFO - 2020-08-13 13:35:13
+2020-08-13 13:35:13,973 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 13:35:13,973 - root - INFO - GPU3: gpu util:87% | free memory:5721MiB
+2020-08-13 13:35:13,973 - root - INFO - GPU3: gpu util:74% | free memory:9111MiB
+2020-08-13 13:35:13,973 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 13:35:13,973 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:36:24,100 - root - INFO - 2020-08-13 13:36:24
+2020-08-13 13:36:24,100 - root - INFO - GPU3: gpu util:96% | free memory:1023MiB
+2020-08-13 13:36:24,101 - root - INFO - GPU3: gpu util:84% | free memory:5721MiB
+2020-08-13 13:36:24,101 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 13:36:24,101 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 13:36:24,101 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:37:34,216 - root - INFO - 2020-08-13 13:37:34
+2020-08-13 13:37:34,217 - root - INFO - GPU3: gpu util:95% | free memory:1023MiB
+2020-08-13 13:37:34,217 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 13:37:34,217 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 13:37:34,217 - root - INFO - GPU3: gpu util:90% | free memory:1035MiB
+2020-08-13 13:37:34,217 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:38:44,382 - root - INFO - 2020-08-13 13:38:44
+2020-08-13 13:38:44,383 - root - INFO - GPU3: gpu util:95% | free memory:1023MiB
+2020-08-13 13:38:44,383 - root - INFO - GPU3: gpu util:58% | free memory:5721MiB
+2020-08-13 13:38:44,383 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 13:38:44,383 - root - INFO - GPU3: gpu util:90% | free memory:1035MiB
+2020-08-13 13:38:44,383 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:39:54,500 - root - INFO - 2020-08-13 13:39:54
+2020-08-13 13:39:54,500 - root - INFO - GPU3: gpu util:93% | free memory:1023MiB
+2020-08-13 13:39:54,500 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 13:39:54,500 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 13:39:54,500 - root - INFO - GPU3: gpu util:86% | free memory:1035MiB
+2020-08-13 13:39:54,501 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:41:04,642 - root - INFO - 2020-08-13 13:41:04
+2020-08-13 13:41:04,642 - root - INFO - GPU3: gpu util:93% | free memory:1023MiB
+2020-08-13 13:41:04,642 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 13:41:04,642 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 13:41:04,642 - root - INFO - GPU3: gpu util:85% | free memory:1035MiB
+2020-08-13 13:41:04,643 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:42:14,772 - root - INFO - 2020-08-13 13:42:14
+2020-08-13 13:42:14,772 - root - INFO - GPU3: gpu util:78% | free memory:1023MiB
+2020-08-13 13:42:14,773 - root - INFO - GPU3: gpu util:90% | free memory:5721MiB
+2020-08-13 13:42:14,773 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 13:42:14,773 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 13:42:14,773 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:43:24,907 - root - INFO - 2020-08-13 13:43:24
+2020-08-13 13:43:24,907 - root - INFO - GPU3: gpu util:95% | free memory:1023MiB
+2020-08-13 13:43:24,908 - root - INFO - GPU3: gpu util:84% | free memory:5721MiB
+2020-08-13 13:43:24,908 - root - INFO - GPU3: gpu util:81% | free memory:9111MiB
+2020-08-13 13:43:24,908 - root - INFO - GPU3: gpu util:78% | free memory:1035MiB
+2020-08-13 13:43:24,908 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:44:35,022 - root - INFO - 2020-08-13 13:44:35
+2020-08-13 13:44:35,023 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 13:44:35,023 - root - INFO - GPU3: gpu util:86% | free memory:5721MiB
+2020-08-13 13:44:35,023 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 13:44:35,023 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 13:44:35,023 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:45:45,096 - root - INFO - 2020-08-13 13:45:45
+2020-08-13 13:45:45,097 - root - INFO - GPU3: gpu util:93% | free memory:1023MiB
+2020-08-13 13:45:45,097 - root - INFO - GPU3: gpu util:85% | free memory:5721MiB
+2020-08-13 13:45:45,097 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 13:45:45,097 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 13:45:45,097 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:46:55,221 - root - INFO - 2020-08-13 13:46:55
+2020-08-13 13:46:55,222 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 13:46:55,222 - root - INFO - GPU3: gpu util:84% | free memory:5721MiB
+2020-08-13 13:46:55,222 - root - INFO - GPU3: gpu util:71% | free memory:9111MiB
+2020-08-13 13:46:55,222 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 13:46:55,222 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:48:05,344 - root - INFO - 2020-08-13 13:48:05
+2020-08-13 13:48:05,345 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 13:48:05,345 - root - INFO - GPU3: gpu util:82% | free memory:5721MiB
+2020-08-13 13:48:05,345 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 13:48:05,345 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 13:48:05,345 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:49:15,501 - root - INFO - 2020-08-13 13:49:15
+2020-08-13 13:49:15,502 - root - INFO - GPU3: gpu util:93% | free memory:1023MiB
+2020-08-13 13:49:15,502 - root - INFO - GPU3: gpu util:86% | free memory:5721MiB
+2020-08-13 13:49:15,502 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 13:49:15,502 - root - INFO - GPU3: gpu util:90% | free memory:1035MiB
+2020-08-13 13:49:15,502 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:50:25,544 - root - INFO - 2020-08-13 13:50:25
+2020-08-13 13:50:25,544 - root - INFO - GPU3: gpu util:93% | free memory:1023MiB
+2020-08-13 13:50:25,544 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 13:50:25,545 - root - INFO - GPU3: gpu util:66% | free memory:9111MiB
+2020-08-13 13:50:25,545 - root - INFO - GPU3: gpu util:91% | free memory:1035MiB
+2020-08-13 13:50:25,545 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:51:35,676 - root - INFO - 2020-08-13 13:51:35
+2020-08-13 13:51:35,677 - root - INFO - GPU3: gpu util:91% | free memory:1023MiB
+2020-08-13 13:51:35,677 - root - INFO - GPU3: gpu util:87% | free memory:5721MiB
+2020-08-13 13:51:35,677 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 13:51:35,677 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 13:51:35,677 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:52:45,796 - root - INFO - 2020-08-13 13:52:45
+2020-08-13 13:52:45,796 - root - INFO - GPU3: gpu util:93% | free memory:1023MiB
+2020-08-13 13:52:45,796 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 13:52:45,796 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 13:52:45,796 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 13:52:45,796 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:53:55,925 - root - INFO - 2020-08-13 13:53:55
+2020-08-13 13:53:55,926 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 13:53:55,926 - root - INFO - GPU3: gpu util:83% | free memory:5721MiB
+2020-08-13 13:53:55,926 - root - INFO - GPU3: gpu util:75% | free memory:9111MiB
+2020-08-13 13:53:55,926 - root - INFO - GPU3: gpu util:86% | free memory:1035MiB
+2020-08-13 13:53:55,926 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:55:06,047 - root - INFO - 2020-08-13 13:55:06
+2020-08-13 13:55:06,047 - root - INFO - GPU3: gpu util:83% | free memory:1023MiB
+2020-08-13 13:55:06,047 - root - INFO - GPU3: gpu util:90% | free memory:5721MiB
+2020-08-13 13:55:06,047 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 13:55:06,047 - root - INFO - GPU3: gpu util:79% | free memory:1035MiB
+2020-08-13 13:55:06,047 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:56:16,187 - root - INFO - 2020-08-13 13:56:16
+2020-08-13 13:56:16,187 - root - INFO - GPU3: gpu util:93% | free memory:1023MiB
+2020-08-13 13:56:16,187 - root - INFO - GPU3: gpu util:79% | free memory:5721MiB
+2020-08-13 13:56:16,187 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 13:56:16,187 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 13:56:16,187 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:57:26,316 - root - INFO - 2020-08-13 13:57:26
+2020-08-13 13:57:26,317 - root - INFO - GPU3: gpu util:93% | free memory:1023MiB
+2020-08-13 13:57:26,317 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 13:57:26,317 - root - INFO - GPU3: gpu util:66% | free memory:9111MiB
+2020-08-13 13:57:26,317 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 13:57:26,317 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:58:36,443 - root - INFO - 2020-08-13 13:58:36
+2020-08-13 13:58:36,443 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 13:58:36,443 - root - INFO - GPU3: gpu util:92% | free memory:5721MiB
+2020-08-13 13:58:36,443 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 13:58:36,443 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 13:58:36,444 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 13:59:46,563 - root - INFO - 2020-08-13 13:59:46
+2020-08-13 13:59:46,564 - root - INFO - GPU3: gpu util:95% | free memory:1023MiB
+2020-08-13 13:59:46,564 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 13:59:46,564 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 13:59:46,564 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 13:59:46,564 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:00:56,700 - root - INFO - 2020-08-13 14:00:56
+2020-08-13 14:00:56,701 - root - INFO - GPU3: gpu util:91% | free memory:1023MiB
+2020-08-13 14:00:56,701 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 14:00:56,701 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 14:00:56,701 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 14:00:56,701 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:02:06,828 - root - INFO - 2020-08-13 14:02:06
+2020-08-13 14:02:06,828 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 14:02:06,828 - root - INFO - GPU3: gpu util:87% | free memory:5721MiB
+2020-08-13 14:02:06,828 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 14:02:06,828 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 14:02:06,829 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:03:16,972 - root - INFO - 2020-08-13 14:03:16
+2020-08-13 14:03:16,972 - root - INFO - GPU3: gpu util:95% | free memory:1023MiB
+2020-08-13 14:03:16,972 - root - INFO - GPU3: gpu util:87% | free memory:5721MiB
+2020-08-13 14:03:16,972 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 14:03:16,973 - root - INFO - GPU3: gpu util:91% | free memory:1035MiB
+2020-08-13 14:03:16,973 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:04:27,107 - root - INFO - 2020-08-13 14:04:27
+2020-08-13 14:04:27,107 - root - INFO - GPU3: gpu util:95% | free memory:1023MiB
+2020-08-13 14:04:27,107 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 14:04:27,107 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 14:04:27,108 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 14:04:27,108 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:05:37,226 - root - INFO - 2020-08-13 14:05:37
+2020-08-13 14:05:37,226 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 14:05:37,226 - root - INFO - GPU3: gpu util:67% | free memory:5721MiB
+2020-08-13 14:05:37,226 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 14:05:37,226 - root - INFO - GPU3: gpu util:76% | free memory:1035MiB
+2020-08-13 14:05:37,227 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:06:47,330 - root - INFO - 2020-08-13 14:06:47
+2020-08-13 14:06:47,330 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 14:06:47,330 - root - INFO - GPU3: gpu util:84% | free memory:5721MiB
+2020-08-13 14:06:47,330 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 14:06:47,330 - root - INFO - GPU3: gpu util:82% | free memory:1035MiB
+2020-08-13 14:06:47,331 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:07:57,482 - root - INFO - 2020-08-13 14:07:57
+2020-08-13 14:07:57,483 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 14:07:57,483 - root - INFO - GPU3: gpu util:91% | free memory:5721MiB
+2020-08-13 14:07:57,483 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 14:07:57,483 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 14:07:57,483 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:09:07,634 - root - INFO - 2020-08-13 14:09:07
+2020-08-13 14:09:07,634 - root - INFO - GPU3: gpu util:95% | free memory:1023MiB
+2020-08-13 14:09:07,634 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 14:09:07,634 - root - INFO - GPU3: gpu util:74% | free memory:9111MiB
+2020-08-13 14:09:07,635 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 14:09:07,635 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:10:17,748 - root - INFO - 2020-08-13 14:10:17
+2020-08-13 14:10:17,748 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 14:10:17,748 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 14:10:17,748 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 14:10:17,748 - root - INFO - GPU3: gpu util:90% | free memory:1035MiB
+2020-08-13 14:10:17,748 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:11:27,894 - root - INFO - 2020-08-13 14:11:27
+2020-08-13 14:11:27,895 - root - INFO - GPU3: gpu util:95% | free memory:1023MiB
+2020-08-13 14:11:27,895 - root - INFO - GPU3: gpu util:76% | free memory:5721MiB
+2020-08-13 14:11:27,895 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 14:11:27,895 - root - INFO - GPU3: gpu util:86% | free memory:1035MiB
+2020-08-13 14:11:27,895 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:12:37,999 - root - INFO - 2020-08-13 14:12:37
+2020-08-13 14:12:38,000 - root - INFO - GPU3: gpu util:93% | free memory:1023MiB
+2020-08-13 14:12:38,000 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 14:12:38,000 - root - INFO - GPU3: gpu util:69% | free memory:9111MiB
+2020-08-13 14:12:38,000 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 14:12:38,000 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:13:48,192 - root - INFO - 2020-08-13 14:13:48
+2020-08-13 14:13:48,192 - root - INFO - GPU3: gpu util:95% | free memory:1023MiB
+2020-08-13 14:13:48,192 - root - INFO - GPU3: gpu util:69% | free memory:5721MiB
+2020-08-13 14:13:48,192 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 14:13:48,192 - root - INFO - GPU3: gpu util:85% | free memory:1035MiB
+2020-08-13 14:13:48,192 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:14:58,288 - root - INFO - 2020-08-13 14:14:58
+2020-08-13 14:14:58,289 - root - INFO - GPU3: gpu util:86% | free memory:1023MiB
+2020-08-13 14:14:58,289 - root - INFO - GPU3: gpu util:85% | free memory:5721MiB
+2020-08-13 14:14:58,289 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 14:14:58,289 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 14:14:58,289 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:16:08,392 - root - INFO - 2020-08-13 14:16:08
+2020-08-13 14:16:08,393 - root - INFO - GPU3: gpu util:93% | free memory:1023MiB
+2020-08-13 14:16:08,393 - root - INFO - GPU3: gpu util:87% | free memory:5721MiB
+2020-08-13 14:16:08,393 - root - INFO - GPU3: gpu util:69% | free memory:9111MiB
+2020-08-13 14:16:08,393 - root - INFO - GPU3: gpu util:90% | free memory:1035MiB
+2020-08-13 14:16:08,393 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:17:18,481 - root - INFO - 2020-08-13 14:17:18
+2020-08-13 14:17:18,481 - root - INFO - GPU3: gpu util:92% | free memory:1023MiB
+2020-08-13 14:17:18,482 - root - INFO - GPU3: gpu util:85% | free memory:5721MiB
+2020-08-13 14:17:18,482 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 14:17:18,482 - root - INFO - GPU3: gpu util:80% | free memory:1035MiB
+2020-08-13 14:17:18,482 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:18:28,592 - root - INFO - 2020-08-13 14:18:28
+2020-08-13 14:18:28,593 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 14:18:28,593 - root - INFO - GPU3: gpu util:85% | free memory:5721MiB
+2020-08-13 14:18:28,593 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 14:18:28,593 - root - INFO - GPU3: gpu util:82% | free memory:1035MiB
+2020-08-13 14:18:28,593 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:19:38,722 - root - INFO - 2020-08-13 14:19:38
+2020-08-13 14:19:38,723 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 14:19:38,723 - root - INFO - GPU3: gpu util:84% | free memory:5721MiB
+2020-08-13 14:19:38,723 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 14:19:38,723 - root - INFO - GPU3: gpu util:91% | free memory:1035MiB
+2020-08-13 14:19:38,723 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:20:48,819 - root - INFO - 2020-08-13 14:20:48
+2020-08-13 14:20:48,819 - root - INFO - GPU3: gpu util:93% | free memory:1023MiB
+2020-08-13 14:20:48,819 - root - INFO - GPU3: gpu util:86% | free memory:5721MiB
+2020-08-13 14:20:48,819 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 14:20:48,819 - root - INFO - GPU3: gpu util:90% | free memory:1035MiB
+2020-08-13 14:20:48,819 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:21:58,926 - root - INFO - 2020-08-13 14:21:58
+2020-08-13 14:21:58,926 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 14:21:58,926 - root - INFO - GPU3: gpu util:86% | free memory:5721MiB
+2020-08-13 14:21:58,926 - root - INFO - GPU3: gpu util:81% | free memory:9111MiB
+2020-08-13 14:21:58,926 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 14:21:58,926 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:23:09,104 - root - INFO - 2020-08-13 14:23:09
+2020-08-13 14:23:09,105 - root - INFO - GPU3: gpu util:92% | free memory:1023MiB
+2020-08-13 14:23:09,105 - root - INFO - GPU3: gpu util:74% | free memory:5721MiB
+2020-08-13 14:23:09,105 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 14:23:09,105 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 14:23:09,105 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:24:19,225 - root - INFO - 2020-08-13 14:24:19
+2020-08-13 14:24:19,226 - root - INFO - GPU3: gpu util:92% | free memory:1023MiB
+2020-08-13 14:24:19,226 - root - INFO - GPU3: gpu util:87% | free memory:5721MiB
+2020-08-13 14:24:19,226 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 14:24:19,226 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 14:24:19,226 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:25:29,319 - root - INFO - 2020-08-13 14:25:29
+2020-08-13 14:25:29,319 - root - INFO - GPU3: gpu util:95% | free memory:1023MiB
+2020-08-13 14:25:29,319 - root - INFO - GPU3: gpu util:92% | free memory:5721MiB
+2020-08-13 14:25:29,319 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 14:25:29,319 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 14:25:29,319 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:26:39,408 - root - INFO - 2020-08-13 14:26:39
+2020-08-13 14:26:39,409 - root - INFO - GPU3: gpu util:95% | free memory:1023MiB
+2020-08-13 14:26:39,409 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 14:26:39,409 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 14:26:39,409 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 14:26:39,409 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:27:49,550 - root - INFO - 2020-08-13 14:27:49
+2020-08-13 14:27:49,550 - root - INFO - GPU3: gpu util:91% | free memory:1023MiB
+2020-08-13 14:27:49,550 - root - INFO - GPU3: gpu util:90% | free memory:5721MiB
+2020-08-13 14:27:49,550 - root - INFO - GPU3: gpu util:74% | free memory:9111MiB
+2020-08-13 14:27:49,550 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 14:27:49,551 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:28:59,685 - root - INFO - 2020-08-13 14:28:59
+2020-08-13 14:28:59,685 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 14:28:59,685 - root - INFO - GPU3: gpu util:94% | free memory:5721MiB
+2020-08-13 14:28:59,685 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 14:28:59,685 - root - INFO - GPU3: gpu util:80% | free memory:1035MiB
+2020-08-13 14:28:59,686 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:30:09,816 - root - INFO - 2020-08-13 14:30:09
+2020-08-13 14:30:09,816 - root - INFO - GPU3: gpu util:95% | free memory:1023MiB
+2020-08-13 14:30:09,816 - root - INFO - GPU3: gpu util:91% | free memory:5721MiB
+2020-08-13 14:30:09,816 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 14:30:09,816 - root - INFO - GPU3: gpu util:92% | free memory:1035MiB
+2020-08-13 14:30:09,817 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:31:19,941 - root - INFO - 2020-08-13 14:31:19
+2020-08-13 14:31:19,941 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 14:31:19,941 - root - INFO - GPU3: gpu util:87% | free memory:5721MiB
+2020-08-13 14:31:19,941 - root - INFO - GPU3: gpu util:64% | free memory:9111MiB
+2020-08-13 14:31:19,941 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 14:31:19,943 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:32:30,060 - root - INFO - 2020-08-13 14:32:30
+2020-08-13 14:32:30,060 - root - INFO - GPU3: gpu util:93% | free memory:1023MiB
+2020-08-13 14:32:30,061 - root - INFO - GPU3: gpu util:76% | free memory:5721MiB
+2020-08-13 14:32:30,061 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 14:32:30,061 - root - INFO - GPU3: gpu util:90% | free memory:1035MiB
+2020-08-13 14:32:30,061 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:33:40,181 - root - INFO - 2020-08-13 14:33:40
+2020-08-13 14:33:40,181 - root - INFO - GPU3: gpu util:83% | free memory:1023MiB
+2020-08-13 14:33:40,181 - root - INFO - GPU3: gpu util:85% | free memory:5721MiB
+2020-08-13 14:33:40,181 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 14:33:40,181 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 14:33:40,182 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:34:50,299 - root - INFO - 2020-08-13 14:34:50
+2020-08-13 14:34:50,299 - root - INFO - GPU3: gpu util:95% | free memory:1023MiB
+2020-08-13 14:34:50,300 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 14:34:50,300 - root - INFO - GPU3: gpu util:66% | free memory:9111MiB
+2020-08-13 14:34:50,300 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 14:34:50,300 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:36:00,398 - root - INFO - 2020-08-13 14:36:00
+2020-08-13 14:36:00,398 - root - INFO - GPU3: gpu util:93% | free memory:1023MiB
+2020-08-13 14:36:00,398 - root - INFO - GPU3: gpu util:82% | free memory:5721MiB
+2020-08-13 14:36:00,399 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 14:36:00,399 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 14:36:00,399 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:37:10,520 - root - INFO - 2020-08-13 14:37:10
+2020-08-13 14:37:10,520 - root - INFO - GPU3: gpu util:93% | free memory:1023MiB
+2020-08-13 14:37:10,520 - root - INFO - GPU3: gpu util:92% | free memory:5721MiB
+2020-08-13 14:37:10,520 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 14:37:10,520 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 14:37:10,521 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:38:20,623 - root - INFO - 2020-08-13 14:38:20
+2020-08-13 14:38:20,624 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 14:38:20,624 - root - INFO - GPU3: gpu util:87% | free memory:5721MiB
+2020-08-13 14:38:20,624 - root - INFO - GPU3: gpu util:74% | free memory:9111MiB
+2020-08-13 14:38:20,624 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 14:38:20,625 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:39:30,731 - root - INFO - 2020-08-13 14:39:30
+2020-08-13 14:39:30,731 - root - INFO - GPU3: gpu util:93% | free memory:1023MiB
+2020-08-13 14:39:30,731 - root - INFO - GPU3: gpu util:84% | free memory:5721MiB
+2020-08-13 14:39:30,731 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 14:39:30,732 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 14:39:30,732 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:40:40,836 - root - INFO - 2020-08-13 14:40:40
+2020-08-13 14:40:40,836 - root - INFO - GPU3: gpu util:81% | free memory:1023MiB
+2020-08-13 14:40:40,836 - root - INFO - GPU3: gpu util:69% | free memory:5721MiB
+2020-08-13 14:40:40,836 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 14:40:40,836 - root - INFO - GPU3: gpu util:79% | free memory:1035MiB
+2020-08-13 14:40:40,837 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:41:50,954 - root - INFO - 2020-08-13 14:41:50
+2020-08-13 14:41:50,955 - root - INFO - GPU3: gpu util:93% | free memory:1023MiB
+2020-08-13 14:41:50,955 - root - INFO - GPU3: gpu util:87% | free memory:5721MiB
+2020-08-13 14:41:50,955 - root - INFO - GPU3: gpu util:75% | free memory:9111MiB
+2020-08-13 14:41:50,955 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 14:41:50,955 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:43:01,104 - root - INFO - 2020-08-13 14:43:01
+2020-08-13 14:43:01,104 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 14:43:01,104 - root - INFO - GPU3: gpu util:83% | free memory:5721MiB
+2020-08-13 14:43:01,104 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 14:43:01,104 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 14:43:01,104 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:44:11,247 - root - INFO - 2020-08-13 14:44:11
+2020-08-13 14:44:11,247 - root - INFO - GPU3: gpu util:92% | free memory:1023MiB
+2020-08-13 14:44:11,247 - root - INFO - GPU3: gpu util:93% | free memory:5721MiB
+2020-08-13 14:44:11,247 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 14:44:11,247 - root - INFO - GPU3: gpu util:90% | free memory:1035MiB
+2020-08-13 14:44:11,247 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:45:21,351 - root - INFO - 2020-08-13 14:45:21
+2020-08-13 14:45:21,351 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 14:45:21,351 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 14:45:21,351 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 14:45:21,351 - root - INFO - GPU3: gpu util:90% | free memory:1035MiB
+2020-08-13 14:45:21,351 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:46:31,483 - root - INFO - 2020-08-13 14:46:31
+2020-08-13 14:46:31,483 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 14:46:31,483 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 14:46:31,484 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 14:46:31,484 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 14:46:31,484 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:47:41,580 - root - INFO - 2020-08-13 14:47:41
+2020-08-13 14:47:41,580 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 14:47:41,580 - root - INFO - GPU3: gpu util:90% | free memory:5721MiB
+2020-08-13 14:47:41,580 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 14:47:41,580 - root - INFO - GPU3: gpu util:91% | free memory:1035MiB
+2020-08-13 14:47:41,580 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:48:51,667 - root - INFO - 2020-08-13 14:48:51
+2020-08-13 14:48:51,667 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 14:48:51,667 - root - INFO - GPU3: gpu util:86% | free memory:5721MiB
+2020-08-13 14:48:51,668 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 14:48:51,668 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 14:48:51,668 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:50:01,769 - root - INFO - 2020-08-13 14:50:01
+2020-08-13 14:50:01,769 - root - INFO - GPU3: gpu util:93% | free memory:1023MiB
+2020-08-13 14:50:01,769 - root - INFO - GPU3: gpu util:73% | free memory:5721MiB
+2020-08-13 14:50:01,769 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 14:50:01,769 - root - INFO - GPU3: gpu util:90% | free memory:1035MiB
+2020-08-13 14:50:01,769 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:51:11,906 - root - INFO - 2020-08-13 14:51:11
+2020-08-13 14:51:11,907 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 14:51:11,907 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 14:51:11,907 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 14:51:11,907 - root - INFO - GPU3: gpu util:79% | free memory:1035MiB
+2020-08-13 14:51:11,907 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:52:22,056 - root - INFO - 2020-08-13 14:52:22
+2020-08-13 14:52:22,056 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 14:52:22,056 - root - INFO - GPU3: gpu util:87% | free memory:5721MiB
+2020-08-13 14:52:22,056 - root - INFO - GPU3: gpu util:77% | free memory:9111MiB
+2020-08-13 14:52:22,056 - root - INFO - GPU3: gpu util:83% | free memory:1035MiB
+2020-08-13 14:52:22,056 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:53:32,167 - root - INFO - 2020-08-13 14:53:32
+2020-08-13 14:53:32,167 - root - INFO - GPU3: gpu util:86% | free memory:1023MiB
+2020-08-13 14:53:32,167 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 14:53:32,167 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 14:53:32,167 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 14:53:32,167 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:54:42,280 - root - INFO - 2020-08-13 14:54:42
+2020-08-13 14:54:42,281 - root - INFO - GPU3: gpu util:92% | free memory:1023MiB
+2020-08-13 14:54:42,281 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 14:54:42,281 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 14:54:42,281 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 14:54:42,281 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:55:52,421 - root - INFO - 2020-08-13 14:55:52
+2020-08-13 14:55:52,421 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 14:55:52,421 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 14:55:52,421 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 14:55:52,421 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 14:55:52,421 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:57:02,541 - root - INFO - 2020-08-13 14:57:02
+2020-08-13 14:57:02,541 - root - INFO - GPU3: gpu util:92% | free memory:1023MiB
+2020-08-13 14:57:02,541 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 14:57:02,542 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 14:57:02,542 - root - INFO - GPU3: gpu util:90% | free memory:1035MiB
+2020-08-13 14:57:02,542 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:58:12,672 - root - INFO - 2020-08-13 14:58:12
+2020-08-13 14:58:12,673 - root - INFO - GPU3: gpu util:95% | free memory:1023MiB
+2020-08-13 14:58:12,673 - root - INFO - GPU3: gpu util:91% | free memory:5721MiB
+2020-08-13 14:58:12,673 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 14:58:12,673 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 14:58:12,673 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 14:59:22,788 - root - INFO - 2020-08-13 14:59:22
+2020-08-13 14:59:22,788 - root - INFO - GPU3: gpu util:96% | free memory:1023MiB
+2020-08-13 14:59:22,788 - root - INFO - GPU3: gpu util:66% | free memory:5721MiB
+2020-08-13 14:59:22,788 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 14:59:22,788 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 14:59:22,792 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:00:32,955 - root - INFO - 2020-08-13 15:00:32
+2020-08-13 15:00:32,955 - root - INFO - GPU3: gpu util:77% | free memory:1023MiB
+2020-08-13 15:00:32,955 - root - INFO - GPU3: gpu util:86% | free memory:5721MiB
+2020-08-13 15:00:32,955 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 15:00:32,955 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 15:00:32,956 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:01:43,046 - root - INFO - 2020-08-13 15:01:43
+2020-08-13 15:01:43,046 - root - INFO - GPU3: gpu util:96% | free memory:1023MiB
+2020-08-13 15:01:43,046 - root - INFO - GPU3: gpu util:87% | free memory:5721MiB
+2020-08-13 15:01:43,046 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 15:01:43,047 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 15:01:43,047 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:02:53,158 - root - INFO - 2020-08-13 15:02:53
+2020-08-13 15:02:53,158 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 15:02:53,158 - root - INFO - GPU3: gpu util:90% | free memory:5721MiB
+2020-08-13 15:02:53,158 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 15:02:53,158 - root - INFO - GPU3: gpu util:76% | free memory:1035MiB
+2020-08-13 15:02:53,159 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:04:03,295 - root - INFO - 2020-08-13 15:04:03
+2020-08-13 15:04:03,296 - root - INFO - GPU3: gpu util:91% | free memory:1023MiB
+2020-08-13 15:04:03,296 - root - INFO - GPU3: gpu util:86% | free memory:5721MiB
+2020-08-13 15:04:03,296 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 15:04:03,296 - root - INFO - GPU3: gpu util:78% | free memory:1035MiB
+2020-08-13 15:04:03,296 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:05:13,366 - root - INFO - 2020-08-13 15:05:13
+2020-08-13 15:05:13,366 - root - INFO - GPU3: gpu util:95% | free memory:1023MiB
+2020-08-13 15:05:13,367 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 15:05:13,367 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 15:05:13,367 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 15:05:13,367 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:06:23,470 - root - INFO - 2020-08-13 15:06:23
+2020-08-13 15:06:23,470 - root - INFO - GPU3: gpu util:93% | free memory:1023MiB
+2020-08-13 15:06:23,470 - root - INFO - GPU3: gpu util:90% | free memory:5721MiB
+2020-08-13 15:06:23,470 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 15:06:23,470 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 15:06:23,470 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:07:33,615 - root - INFO - 2020-08-13 15:07:33
+2020-08-13 15:07:33,615 - root - INFO - GPU3: gpu util:95% | free memory:1023MiB
+2020-08-13 15:07:33,615 - root - INFO - GPU3: gpu util:87% | free memory:5721MiB
+2020-08-13 15:07:33,615 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 15:07:33,616 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 15:07:33,616 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:08:43,735 - root - INFO - 2020-08-13 15:08:43
+2020-08-13 15:08:43,735 - root - INFO - GPU3: gpu util:95% | free memory:1023MiB
+2020-08-13 15:08:43,735 - root - INFO - GPU3: gpu util:77% | free memory:5721MiB
+2020-08-13 15:08:43,735 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 15:08:43,735 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 15:08:43,736 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:09:53,860 - root - INFO - 2020-08-13 15:09:53
+2020-08-13 15:09:53,861 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 15:09:53,861 - root - INFO - GPU3: gpu util:85% | free memory:5721MiB
+2020-08-13 15:09:53,861 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 15:09:53,861 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 15:09:53,861 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:11:04,004 - root - INFO - 2020-08-13 15:11:04
+2020-08-13 15:11:04,004 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 15:11:04,005 - root - INFO - GPU3: gpu util:92% | free memory:5721MiB
+2020-08-13 15:11:04,005 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 15:11:04,005 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 15:11:04,005 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:12:14,112 - root - INFO - 2020-08-13 15:12:14
+2020-08-13 15:12:14,112 - root - INFO - GPU3: gpu util:92% | free memory:1023MiB
+2020-08-13 15:12:14,112 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 15:12:14,112 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 15:12:14,112 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 15:12:14,112 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:13:24,207 - root - INFO - 2020-08-13 15:13:24
+2020-08-13 15:13:24,207 - root - INFO - GPU3: gpu util:95% | free memory:1023MiB
+2020-08-13 15:13:24,207 - root - INFO - GPU3: gpu util:87% | free memory:5721MiB
+2020-08-13 15:13:24,207 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 15:13:24,207 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 15:13:24,208 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:14:34,344 - root - INFO - 2020-08-13 15:14:34
+2020-08-13 15:14:34,344 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 15:14:34,345 - root - INFO - GPU3: gpu util:85% | free memory:5721MiB
+2020-08-13 15:14:34,345 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 15:14:34,345 - root - INFO - GPU3: gpu util:73% | free memory:1035MiB
+2020-08-13 15:14:34,345 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:15:44,492 - root - INFO - 2020-08-13 15:15:44
+2020-08-13 15:15:44,492 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 15:15:44,492 - root - INFO - GPU3: gpu util:85% | free memory:5721MiB
+2020-08-13 15:15:44,492 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 15:15:44,492 - root - INFO - GPU3: gpu util:90% | free memory:1035MiB
+2020-08-13 15:15:44,492 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:16:54,601 - root - INFO - 2020-08-13 15:16:54
+2020-08-13 15:16:54,601 - root - INFO - GPU3: gpu util:96% | free memory:1023MiB
+2020-08-13 15:16:54,602 - root - INFO - GPU3: gpu util:86% | free memory:5721MiB
+2020-08-13 15:16:54,602 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 15:16:54,602 - root - INFO - GPU3: gpu util:86% | free memory:1035MiB
+2020-08-13 15:16:54,602 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:18:04,709 - root - INFO - 2020-08-13 15:18:04
+2020-08-13 15:18:04,710 - root - INFO - GPU3: gpu util:95% | free memory:1023MiB
+2020-08-13 15:18:04,710 - root - INFO - GPU3: gpu util:80% | free memory:5721MiB
+2020-08-13 15:18:04,710 - root - INFO - GPU3: gpu util:73% | free memory:9111MiB
+2020-08-13 15:18:04,710 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 15:18:04,710 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:19:14,837 - root - INFO - 2020-08-13 15:19:14
+2020-08-13 15:19:14,837 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 15:19:14,837 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 15:19:14,837 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 15:19:14,837 - root - INFO - GPU3: gpu util:86% | free memory:1035MiB
+2020-08-13 15:19:14,837 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:20:24,974 - root - INFO - 2020-08-13 15:20:24
+2020-08-13 15:20:24,974 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 15:20:24,975 - root - INFO - GPU3: gpu util:90% | free memory:5721MiB
+2020-08-13 15:20:24,975 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 15:20:24,975 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 15:20:24,975 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:21:35,088 - root - INFO - 2020-08-13 15:21:35
+2020-08-13 15:21:35,089 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 15:21:35,089 - root - INFO - GPU3: gpu util:86% | free memory:5721MiB
+2020-08-13 15:21:35,089 - root - INFO - GPU3: gpu util:75% | free memory:9111MiB
+2020-08-13 15:21:35,089 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 15:21:35,089 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:22:45,193 - root - INFO - 2020-08-13 15:22:45
+2020-08-13 15:22:45,194 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 15:22:45,194 - root - INFO - GPU3: gpu util:83% | free memory:5721MiB
+2020-08-13 15:22:45,194 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 15:22:45,194 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 15:22:45,194 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:23:55,299 - root - INFO - 2020-08-13 15:23:55
+2020-08-13 15:23:55,299 - root - INFO - GPU3: gpu util:92% | free memory:1023MiB
+2020-08-13 15:23:55,299 - root - INFO - GPU3: gpu util:86% | free memory:5721MiB
+2020-08-13 15:23:55,299 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 15:23:55,300 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 15:23:55,300 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:25:05,431 - root - INFO - 2020-08-13 15:25:05
+2020-08-13 15:25:05,431 - root - INFO - GPU3: gpu util:95% | free memory:1023MiB
+2020-08-13 15:25:05,431 - root - INFO - GPU3: gpu util:87% | free memory:5721MiB
+2020-08-13 15:25:05,431 - root - INFO - GPU3: gpu util:66% | free memory:9111MiB
+2020-08-13 15:25:05,431 - root - INFO - GPU3: gpu util:71% | free memory:1035MiB
+2020-08-13 15:25:05,431 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:26:15,536 - root - INFO - 2020-08-13 15:26:15
+2020-08-13 15:26:15,536 - root - INFO - GPU3: gpu util:95% | free memory:1023MiB
+2020-08-13 15:26:15,536 - root - INFO - GPU3: gpu util:75% | free memory:5721MiB
+2020-08-13 15:26:15,536 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 15:26:15,536 - root - INFO - GPU3: gpu util:78% | free memory:1035MiB
+2020-08-13 15:26:15,536 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:27:25,637 - root - INFO - 2020-08-13 15:27:25
+2020-08-13 15:27:25,637 - root - INFO - GPU3: gpu util:96% | free memory:1023MiB
+2020-08-13 15:27:25,637 - root - INFO - GPU3: gpu util:85% | free memory:5721MiB
+2020-08-13 15:27:25,637 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 15:27:25,637 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 15:27:25,637 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:28:35,820 - root - INFO - 2020-08-13 15:28:35
+2020-08-13 15:28:35,820 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 15:28:35,820 - root - INFO - GPU3: gpu util:83% | free memory:5721MiB
+2020-08-13 15:28:35,820 - root - INFO - GPU3: gpu util:73% | free memory:9111MiB
+2020-08-13 15:28:35,820 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 15:28:35,820 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:29:45,930 - root - INFO - 2020-08-13 15:29:45
+2020-08-13 15:29:45,930 - root - INFO - GPU3: gpu util:93% | free memory:1023MiB
+2020-08-13 15:29:45,930 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 15:29:45,930 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 15:29:45,930 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 15:29:45,931 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:30:56,048 - root - INFO - 2020-08-13 15:30:56
+2020-08-13 15:30:56,048 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 15:30:56,048 - root - INFO - GPU3: gpu util:93% | free memory:5721MiB
+2020-08-13 15:30:56,048 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 15:30:56,048 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 15:30:56,048 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:32:06,214 - root - INFO - 2020-08-13 15:32:06
+2020-08-13 15:32:06,214 - root - INFO - GPU3: gpu util:93% | free memory:1023MiB
+2020-08-13 15:32:06,214 - root - INFO - GPU3: gpu util:90% | free memory:5721MiB
+2020-08-13 15:32:06,214 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 15:32:06,214 - root - INFO - GPU3: gpu util:84% | free memory:1035MiB
+2020-08-13 15:32:06,214 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:33:16,355 - root - INFO - 2020-08-13 15:33:16
+2020-08-13 15:33:16,355 - root - INFO - GPU3: gpu util:80% | free memory:1023MiB
+2020-08-13 15:33:16,355 - root - INFO - GPU3: gpu util:85% | free memory:5721MiB
+2020-08-13 15:33:16,355 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 15:33:16,355 - root - INFO - GPU3: gpu util:86% | free memory:1035MiB
+2020-08-13 15:33:16,355 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:34:26,486 - root - INFO - 2020-08-13 15:34:26
+2020-08-13 15:34:26,486 - root - INFO - GPU3: gpu util:91% | free memory:1023MiB
+2020-08-13 15:34:26,486 - root - INFO - GPU3: gpu util:93% | free memory:5721MiB
+2020-08-13 15:34:26,486 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 15:34:26,486 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 15:34:26,486 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:35:36,624 - root - INFO - 2020-08-13 15:35:36
+2020-08-13 15:35:36,625 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 15:35:36,625 - root - INFO - GPU3: gpu util:79% | free memory:5721MiB
+2020-08-13 15:35:36,625 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 15:35:36,625 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 15:35:36,625 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:36:46,728 - root - INFO - 2020-08-13 15:36:46
+2020-08-13 15:36:46,729 - root - INFO - GPU3: gpu util:93% | free memory:1023MiB
+2020-08-13 15:36:46,729 - root - INFO - GPU3: gpu util:90% | free memory:5721MiB
+2020-08-13 15:36:46,729 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 15:36:46,729 - root - INFO - GPU3: gpu util:67% | free memory:1035MiB
+2020-08-13 15:36:46,729 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:37:56,781 - root - INFO - 2020-08-13 15:37:56
+2020-08-13 15:37:56,781 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 15:37:56,782 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 15:37:56,782 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 15:37:56,782 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 15:37:56,782 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:39:06,903 - root - INFO - 2020-08-13 15:39:06
+2020-08-13 15:39:06,903 - root - INFO - GPU3: gpu util:95% | free memory:1023MiB
+2020-08-13 15:39:06,903 - root - INFO - GPU3: gpu util:87% | free memory:5721MiB
+2020-08-13 15:39:06,903 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 15:39:06,903 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 15:39:06,904 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:40:17,019 - root - INFO - 2020-08-13 15:40:17
+2020-08-13 15:40:17,019 - root - INFO - GPU3: gpu util:83% | free memory:1023MiB
+2020-08-13 15:40:17,019 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 15:40:17,019 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 15:40:17,019 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 15:40:17,019 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:41:27,087 - root - INFO - 2020-08-13 15:41:27
+2020-08-13 15:41:27,088 - root - INFO - GPU3: gpu util:95% | free memory:1023MiB
+2020-08-13 15:41:27,088 - root - INFO - GPU3: gpu util:83% | free memory:5721MiB
+2020-08-13 15:41:27,088 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 15:41:27,088 - root - INFO - GPU3: gpu util:92% | free memory:1035MiB
+2020-08-13 15:41:27,088 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:42:37,199 - root - INFO - 2020-08-13 15:42:37
+2020-08-13 15:42:37,199 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 15:42:37,199 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 15:42:37,199 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 15:42:37,199 - root - INFO - GPU3: gpu util:90% | free memory:1035MiB
+2020-08-13 15:42:37,199 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:43:47,308 - root - INFO - 2020-08-13 15:43:47
+2020-08-13 15:43:47,309 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 15:43:47,309 - root - INFO - GPU3: gpu util:87% | free memory:5721MiB
+2020-08-13 15:43:47,309 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 15:43:47,309 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 15:43:47,309 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:44:57,405 - root - INFO - 2020-08-13 15:44:57
+2020-08-13 15:44:57,405 - root - INFO - GPU3: gpu util:92% | free memory:1023MiB
+2020-08-13 15:44:57,405 - root - INFO - GPU3: gpu util:74% | free memory:5721MiB
+2020-08-13 15:44:57,406 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 15:44:57,406 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 15:44:57,406 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:46:07,517 - root - INFO - 2020-08-13 15:46:07
+2020-08-13 15:46:07,518 - root - INFO - GPU3: gpu util:93% | free memory:1023MiB
+2020-08-13 15:46:07,518 - root - INFO - GPU3: gpu util:86% | free memory:5721MiB
+2020-08-13 15:46:07,518 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 15:46:07,518 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 15:46:07,518 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:47:17,706 - root - INFO - 2020-08-13 15:47:17
+2020-08-13 15:47:17,706 - root - INFO - GPU3: gpu util:82% | free memory:1023MiB
+2020-08-13 15:47:17,706 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 15:47:17,706 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 15:47:17,706 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 15:47:17,707 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:48:27,808 - root - INFO - 2020-08-13 15:48:27
+2020-08-13 15:48:27,808 - root - INFO - GPU3: gpu util:93% | free memory:1023MiB
+2020-08-13 15:48:27,808 - root - INFO - GPU3: gpu util:90% | free memory:5721MiB
+2020-08-13 15:48:27,808 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 15:48:27,808 - root - INFO - GPU3: gpu util:76% | free memory:1035MiB
+2020-08-13 15:48:27,808 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:49:37,932 - root - INFO - 2020-08-13 15:49:37
+2020-08-13 15:49:37,932 - root - INFO - GPU3: gpu util:95% | free memory:1023MiB
+2020-08-13 15:49:37,932 - root - INFO - GPU3: gpu util:83% | free memory:5721MiB
+2020-08-13 15:49:37,932 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 15:49:37,932 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 15:49:37,933 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:50:48,060 - root - INFO - 2020-08-13 15:50:48
+2020-08-13 15:50:48,060 - root - INFO - GPU3: gpu util:94% | free memory:1023MiB
+2020-08-13 15:50:48,060 - root - INFO - GPU3: gpu util:86% | free memory:5721MiB
+2020-08-13 15:50:48,060 - root - INFO - GPU3: gpu util:66% | free memory:9111MiB
+2020-08-13 15:50:48,060 - root - INFO - GPU3: gpu util:90% | free memory:1035MiB
+2020-08-13 15:50:48,060 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:51:58,136 - root - INFO - 2020-08-13 15:51:58
+2020-08-13 15:51:58,136 - root - INFO - GPU3: gpu util:96% | free memory:1023MiB
+2020-08-13 15:51:58,137 - root - INFO - GPU3: gpu util:87% | free memory:5721MiB
+2020-08-13 15:51:58,137 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 15:51:58,137 - root - INFO - GPU3: gpu util:90% | free memory:1035MiB
+2020-08-13 15:51:58,137 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:53:08,275 - root - INFO - 2020-08-13 15:53:08
+2020-08-13 15:53:08,276 - root - INFO - GPU3: gpu util:95% | free memory:1023MiB
+2020-08-13 15:53:08,276 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 15:53:08,276 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 15:53:08,276 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 15:53:08,276 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:54:18,390 - root - INFO - 2020-08-13 15:54:18
+2020-08-13 15:54:18,390 - root - INFO - GPU3: gpu util:91% | free memory:1023MiB
+2020-08-13 15:54:18,391 - root - INFO - GPU3: gpu util:72% | free memory:5721MiB
+2020-08-13 15:54:18,391 - root - INFO - GPU3: gpu util:68% | free memory:9111MiB
+2020-08-13 15:54:18,391 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 15:54:18,391 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:55:28,528 - root - INFO - 2020-08-13 15:55:28
+2020-08-13 15:55:28,528 - root - INFO - GPU3: gpu util:91% | free memory:1023MiB
+2020-08-13 15:55:28,528 - root - INFO - GPU3: gpu util:85% | free memory:5721MiB
+2020-08-13 15:55:28,528 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 15:55:28,528 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 15:55:28,529 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:56:38,625 - root - INFO - 2020-08-13 15:56:38
+2020-08-13 15:56:38,626 - root - INFO - GPU3: gpu util:93% | free memory:1023MiB
+2020-08-13 15:56:38,626 - root - INFO - GPU3: gpu util:93% | free memory:5721MiB
+2020-08-13 15:56:38,626 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 15:56:38,626 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 15:56:38,626 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:57:48,716 - root - INFO - 2020-08-13 15:57:48
+2020-08-13 15:57:48,717 - root - INFO - GPU3: gpu util:96% | free memory:1023MiB
+2020-08-13 15:57:48,717 - root - INFO - GPU3: gpu util:92% | free memory:5721MiB
+2020-08-13 15:57:48,717 - root - INFO - GPU3: gpu util:70% | free memory:9111MiB
+2020-08-13 15:57:48,717 - root - INFO - GPU3: gpu util:91% | free memory:1035MiB
+2020-08-13 15:57:48,717 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 15:58:58,835 - root - INFO - 2020-08-13 15:58:58
+2020-08-13 15:58:58,835 - root - INFO - GPU3: gpu util:81% | free memory:9111MiB
+2020-08-13 15:58:58,835 - root - INFO - GPU3: gpu util:85% | free memory:5721MiB
+2020-08-13 15:58:58,835 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 15:58:58,835 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 15:58:58,835 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:00:08,968 - root - INFO - 2020-08-13 16:00:08
+2020-08-13 16:00:08,968 - root - INFO - GPU3: gpu util:74% | free memory:9111MiB
+2020-08-13 16:00:08,968 - root - INFO - GPU3: gpu util:80% | free memory:5721MiB
+2020-08-13 16:00:08,968 - root - INFO - GPU3: gpu util:81% | free memory:9111MiB
+2020-08-13 16:00:08,968 - root - INFO - GPU3: gpu util:79% | free memory:1035MiB
+2020-08-13 16:00:08,968 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:01:19,070 - root - INFO - 2020-08-13 16:01:19
+2020-08-13 16:01:19,071 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 16:01:19,071 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 16:01:19,071 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 16:01:19,071 - root - INFO - GPU3: gpu util:90% | free memory:1035MiB
+2020-08-13 16:01:19,071 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:02:29,156 - root - INFO - 2020-08-13 16:02:29
+2020-08-13 16:02:29,156 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 16:02:29,157 - root - INFO - GPU3: gpu util:73% | free memory:5721MiB
+2020-08-13 16:02:29,157 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 16:02:29,157 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 16:02:29,157 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:03:39,267 - root - INFO - 2020-08-13 16:03:39
+2020-08-13 16:03:39,267 - root - INFO - GPU3: gpu util:73% | free memory:9111MiB
+2020-08-13 16:03:39,267 - root - INFO - GPU3: gpu util:80% | free memory:5721MiB
+2020-08-13 16:03:39,267 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 16:03:39,267 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 16:03:39,268 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:04:49,387 - root - INFO - 2020-08-13 16:04:49
+2020-08-13 16:04:49,387 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 16:04:49,387 - root - INFO - GPU3: gpu util:90% | free memory:5721MiB
+2020-08-13 16:04:49,387 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 16:04:49,387 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 16:04:49,387 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:05:59,509 - root - INFO - 2020-08-13 16:05:59
+2020-08-13 16:05:59,510 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 16:05:59,510 - root - INFO - GPU3: gpu util:91% | free memory:5721MiB
+2020-08-13 16:05:59,510 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 16:05:59,510 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 16:05:59,510 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:07:09,612 - root - INFO - 2020-08-13 16:07:09
+2020-08-13 16:07:09,612 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 16:07:09,613 - root - INFO - GPU3: gpu util:86% | free memory:5721MiB
+2020-08-13 16:07:09,613 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 16:07:09,613 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 16:07:09,613 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:08:19,707 - root - INFO - 2020-08-13 16:08:19
+2020-08-13 16:08:19,707 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 16:08:19,707 - root - INFO - GPU3: gpu util:85% | free memory:5721MiB
+2020-08-13 16:08:19,707 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 16:08:19,707 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 16:08:19,707 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:09:29,859 - root - INFO - 2020-08-13 16:09:29
+2020-08-13 16:09:29,859 - root - INFO - GPU3: gpu util:67% | free memory:9111MiB
+2020-08-13 16:09:29,859 - root - INFO - GPU3: gpu util:90% | free memory:5721MiB
+2020-08-13 16:09:29,859 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 16:09:29,859 - root - INFO - GPU3: gpu util:91% | free memory:1035MiB
+2020-08-13 16:09:29,859 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:10:40,000 - root - INFO - 2020-08-13 16:10:40
+2020-08-13 16:10:40,000 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 16:10:40,001 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 16:10:40,001 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 16:10:40,001 - root - INFO - GPU3: gpu util:91% | free memory:1035MiB
+2020-08-13 16:10:40,001 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:11:50,141 - root - INFO - 2020-08-13 16:11:50
+2020-08-13 16:11:50,142 - root - INFO - GPU3: gpu util:86% | free memory:9111MiB
+2020-08-13 16:11:50,142 - root - INFO - GPU3: gpu util:79% | free memory:5721MiB
+2020-08-13 16:11:50,142 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 16:11:50,142 - root - INFO - GPU3: gpu util:73% | free memory:1035MiB
+2020-08-13 16:11:50,142 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:13:00,254 - root - INFO - 2020-08-13 16:13:00
+2020-08-13 16:13:00,254 - root - INFO - GPU3: gpu util:69% | free memory:9111MiB
+2020-08-13 16:13:00,255 - root - INFO - GPU3: gpu util:87% | free memory:5721MiB
+2020-08-13 16:13:00,255 - root - INFO - GPU3: gpu util:75% | free memory:9111MiB
+2020-08-13 16:13:00,255 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 16:13:00,255 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:14:10,387 - root - INFO - 2020-08-13 16:14:10
+2020-08-13 16:14:10,388 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 16:14:10,388 - root - INFO - GPU3: gpu util:91% | free memory:5721MiB
+2020-08-13 16:14:10,388 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 16:14:10,388 - root - INFO - GPU3: gpu util:90% | free memory:1035MiB
+2020-08-13 16:14:10,388 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:15:20,532 - root - INFO - 2020-08-13 16:15:20
+2020-08-13 16:15:20,533 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 16:15:20,533 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 16:15:20,533 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 16:15:20,533 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 16:15:20,533 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:16:30,660 - root - INFO - 2020-08-13 16:16:30
+2020-08-13 16:16:30,660 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 16:16:30,660 - root - INFO - GPU3: gpu util:92% | free memory:5721MiB
+2020-08-13 16:16:30,660 - root - INFO - GPU3: gpu util:75% | free memory:9111MiB
+2020-08-13 16:16:30,660 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 16:16:30,660 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:17:40,790 - root - INFO - 2020-08-13 16:17:40
+2020-08-13 16:17:40,790 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 16:17:40,790 - root - INFO - GPU3: gpu util:85% | free memory:5721MiB
+2020-08-13 16:17:40,791 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 16:17:40,791 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 16:17:40,791 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:18:50,898 - root - INFO - 2020-08-13 16:18:50
+2020-08-13 16:18:50,899 - root - INFO - GPU3: gpu util:66% | free memory:9111MiB
+2020-08-13 16:18:50,899 - root - INFO - GPU3: gpu util:86% | free memory:5721MiB
+2020-08-13 16:18:50,899 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 16:18:50,899 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 16:18:50,899 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:20:01,020 - root - INFO - 2020-08-13 16:20:01
+2020-08-13 16:20:01,020 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 16:20:01,020 - root - INFO - GPU3: gpu util:81% | free memory:5721MiB
+2020-08-13 16:20:01,020 - root - INFO - GPU3: gpu util:73% | free memory:9111MiB
+2020-08-13 16:20:01,020 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 16:20:01,021 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:21:11,152 - root - INFO - 2020-08-13 16:21:11
+2020-08-13 16:21:11,153 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 16:21:11,153 - root - INFO - GPU3: gpu util:86% | free memory:5721MiB
+2020-08-13 16:21:11,153 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 16:21:11,153 - root - INFO - GPU3: gpu util:86% | free memory:1035MiB
+2020-08-13 16:21:11,153 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:22:21,306 - root - INFO - 2020-08-13 16:22:21
+2020-08-13 16:22:21,307 - root - INFO - GPU3: gpu util:72% | free memory:9111MiB
+2020-08-13 16:22:21,307 - root - INFO - GPU3: gpu util:92% | free memory:5721MiB
+2020-08-13 16:22:21,307 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 16:22:21,307 - root - INFO - GPU3: gpu util:91% | free memory:1035MiB
+2020-08-13 16:22:21,307 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:23:31,411 - root - INFO - 2020-08-13 16:23:31
+2020-08-13 16:23:31,411 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 16:23:31,411 - root - INFO - GPU3: gpu util:87% | free memory:5721MiB
+2020-08-13 16:23:31,411 - root - INFO - GPU3: gpu util:66% | free memory:9111MiB
+2020-08-13 16:23:31,411 - root - INFO - GPU3: gpu util:72% | free memory:1035MiB
+2020-08-13 16:23:31,411 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:24:41,543 - root - INFO - 2020-08-13 16:24:41
+2020-08-13 16:24:41,544 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 16:24:41,544 - root - INFO - GPU3: gpu util:87% | free memory:5721MiB
+2020-08-13 16:24:41,544 - root - INFO - GPU3: gpu util:79% | free memory:9111MiB
+2020-08-13 16:24:41,544 - root - INFO - GPU3: gpu util:80% | free memory:1035MiB
+2020-08-13 16:24:41,544 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:25:51,695 - root - INFO - 2020-08-13 16:25:51
+2020-08-13 16:25:51,695 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 16:25:51,695 - root - INFO - GPU3: gpu util:87% | free memory:5721MiB
+2020-08-13 16:25:51,696 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 16:25:51,696 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 16:25:51,696 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:27:01,797 - root - INFO - 2020-08-13 16:27:01
+2020-08-13 16:27:01,797 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 16:27:01,797 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 16:27:01,797 - root - INFO - GPU3: gpu util:75% | free memory:9111MiB
+2020-08-13 16:27:01,797 - root - INFO - GPU3: gpu util:90% | free memory:1035MiB
+2020-08-13 16:27:01,798 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:28:11,904 - root - INFO - 2020-08-13 16:28:11
+2020-08-13 16:28:11,905 - root - INFO - GPU3: gpu util:74% | free memory:9111MiB
+2020-08-13 16:28:11,905 - root - INFO - GPU3: gpu util:85% | free memory:5721MiB
+2020-08-13 16:28:11,905 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 16:28:11,905 - root - INFO - GPU3: gpu util:91% | free memory:1035MiB
+2020-08-13 16:28:11,905 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:29:21,993 - root - INFO - 2020-08-13 16:29:21
+2020-08-13 16:29:21,993 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 16:29:21,993 - root - INFO - GPU3: gpu util:74% | free memory:5721MiB
+2020-08-13 16:29:21,993 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 16:29:21,993 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 16:29:21,993 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:30:32,149 - root - INFO - 2020-08-13 16:30:32
+2020-08-13 16:30:32,149 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 16:30:32,149 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 16:30:32,149 - root - INFO - GPU3: gpu util:75% | free memory:9111MiB
+2020-08-13 16:30:32,149 - root - INFO - GPU3: gpu util:90% | free memory:1035MiB
+2020-08-13 16:30:32,149 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:31:42,248 - root - INFO - 2020-08-13 16:31:42
+2020-08-13 16:31:42,249 - root - INFO - GPU3: gpu util:75% | free memory:9111MiB
+2020-08-13 16:31:42,249 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 16:31:42,249 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 16:31:42,249 - root - INFO - GPU3: gpu util:91% | free memory:1035MiB
+2020-08-13 16:31:42,249 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:32:52,358 - root - INFO - 2020-08-13 16:32:52
+2020-08-13 16:32:52,358 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 16:32:52,358 - root - INFO - GPU3: gpu util:90% | free memory:5721MiB
+2020-08-13 16:32:52,358 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 16:32:52,358 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 16:32:52,359 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:34:02,492 - root - INFO - 2020-08-13 16:34:02
+2020-08-13 16:34:02,492 - root - INFO - GPU3: gpu util:81% | free memory:9111MiB
+2020-08-13 16:34:02,492 - root - INFO - GPU3: gpu util:90% | free memory:5721MiB
+2020-08-13 16:34:02,492 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 16:34:02,492 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 16:34:02,493 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:35:12,600 - root - INFO - 2020-08-13 16:35:12
+2020-08-13 16:35:12,601 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 16:35:12,601 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 16:35:12,601 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 16:35:12,601 - root - INFO - GPU3: gpu util:80% | free memory:1035MiB
+2020-08-13 16:35:12,601 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:36:22,721 - root - INFO - 2020-08-13 16:36:22
+2020-08-13 16:36:22,721 - root - INFO - GPU3: gpu util:81% | free memory:9111MiB
+2020-08-13 16:36:22,721 - root - INFO - GPU3: gpu util:87% | free memory:5721MiB
+2020-08-13 16:36:22,721 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 16:36:22,721 - root - INFO - GPU3: gpu util:81% | free memory:1035MiB
+2020-08-13 16:36:22,721 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:37:32,868 - root - INFO - 2020-08-13 16:37:32
+2020-08-13 16:37:32,868 - root - INFO - GPU3: gpu util:76% | free memory:9111MiB
+2020-08-13 16:37:32,868 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 16:37:32,868 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 16:37:32,868 - root - INFO - GPU3: gpu util:90% | free memory:1035MiB
+2020-08-13 16:37:32,868 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:38:42,976 - root - INFO - 2020-08-13 16:38:42
+2020-08-13 16:38:42,976 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 16:38:42,976 - root - INFO - GPU3: gpu util:80% | free memory:5721MiB
+2020-08-13 16:38:42,976 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 16:38:42,977 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 16:38:42,977 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:39:53,125 - root - INFO - 2020-08-13 16:39:53
+2020-08-13 16:39:53,125 - root - INFO - GPU3: gpu util:81% | free memory:9111MiB
+2020-08-13 16:39:53,125 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 16:39:53,125 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 16:39:53,125 - root - INFO - GPU3: gpu util:90% | free memory:1035MiB
+2020-08-13 16:39:53,125 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:41:03,252 - root - INFO - 2020-08-13 16:41:03
+2020-08-13 16:41:03,253 - root - INFO - GPU3: gpu util:71% | free memory:9111MiB
+2020-08-13 16:41:03,253 - root - INFO - GPU3: gpu util:87% | free memory:5721MiB
+2020-08-13 16:41:03,253 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 16:41:03,253 - root - INFO - GPU3: gpu util:90% | free memory:1035MiB
+2020-08-13 16:41:03,253 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:42:13,371 - root - INFO - 2020-08-13 16:42:13
+2020-08-13 16:42:13,371 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 16:42:13,371 - root - INFO - GPU3: gpu util:91% | free memory:5721MiB
+2020-08-13 16:42:13,371 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 16:42:13,371 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 16:42:13,371 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:43:23,505 - root - INFO - 2020-08-13 16:43:23
+2020-08-13 16:43:23,505 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 16:43:23,505 - root - INFO - GPU3: gpu util:87% | free memory:5721MiB
+2020-08-13 16:43:23,505 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 16:43:23,505 - root - INFO - GPU3: gpu util:90% | free memory:1035MiB
+2020-08-13 16:43:23,505 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:44:33,638 - root - INFO - 2020-08-13 16:44:33
+2020-08-13 16:44:33,638 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 16:44:33,638 - root - INFO - GPU3: gpu util:87% | free memory:5721MiB
+2020-08-13 16:44:33,639 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 16:44:33,639 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 16:44:33,639 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:45:43,712 - root - INFO - 2020-08-13 16:45:43
+2020-08-13 16:45:43,712 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 16:45:43,712 - root - INFO - GPU3: gpu util:92% | free memory:5721MiB
+2020-08-13 16:45:43,712 - root - INFO - GPU3: gpu util:65% | free memory:9111MiB
+2020-08-13 16:45:43,712 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 16:45:43,713 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:46:53,815 - root - INFO - 2020-08-13 16:46:53
+2020-08-13 16:46:53,815 - root - INFO - GPU3: gpu util:66% | free memory:9111MiB
+2020-08-13 16:46:53,815 - root - INFO - GPU3: gpu util:78% | free memory:5721MiB
+2020-08-13 16:46:53,815 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 16:46:53,815 - root - INFO - GPU3: gpu util:90% | free memory:1035MiB
+2020-08-13 16:46:53,816 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:48:03,956 - root - INFO - 2020-08-13 16:48:03
+2020-08-13 16:48:03,956 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 16:48:03,956 - root - INFO - GPU3: gpu util:91% | free memory:5721MiB
+2020-08-13 16:48:03,957 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 16:48:03,957 - root - INFO - GPU3: gpu util:62% | free memory:1035MiB
+2020-08-13 16:48:03,957 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:49:14,068 - root - INFO - 2020-08-13 16:49:14
+2020-08-13 16:49:14,068 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 16:49:14,068 - root - INFO - GPU3: gpu util:90% | free memory:5721MiB
+2020-08-13 16:49:14,068 - root - INFO - GPU3: gpu util:71% | free memory:9111MiB
+2020-08-13 16:49:14,068 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 16:49:14,068 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:50:24,214 - root - INFO - 2020-08-13 16:50:24
+2020-08-13 16:50:24,214 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 16:50:24,215 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 16:50:24,215 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 16:50:24,215 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 16:50:24,215 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:51:34,308 - root - INFO - 2020-08-13 16:51:34
+2020-08-13 16:51:34,308 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 16:51:34,309 - root - INFO - GPU3: gpu util:87% | free memory:5721MiB
+2020-08-13 16:51:34,309 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 16:51:34,309 - root - INFO - GPU3: gpu util:90% | free memory:1035MiB
+2020-08-13 16:51:34,309 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:52:44,434 - root - INFO - 2020-08-13 16:52:44
+2020-08-13 16:52:44,434 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 16:52:44,434 - root - INFO - GPU3: gpu util:86% | free memory:5721MiB
+2020-08-13 16:52:44,434 - root - INFO - GPU3: gpu util:66% | free memory:9111MiB
+2020-08-13 16:52:44,434 - root - INFO - GPU3: gpu util:90% | free memory:1035MiB
+2020-08-13 16:52:44,435 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:53:54,556 - root - INFO - 2020-08-13 16:53:54
+2020-08-13 16:53:54,556 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 16:53:54,556 - root - INFO - GPU3: gpu util:87% | free memory:5721MiB
+2020-08-13 16:53:54,557 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 16:53:54,557 - root - INFO - GPU3: gpu util:90% | free memory:1035MiB
+2020-08-13 16:53:54,557 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:55:04,693 - root - INFO - 2020-08-13 16:55:04
+2020-08-13 16:55:04,693 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 16:55:04,694 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 16:55:04,694 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 16:55:04,694 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 16:55:04,694 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:56:14,818 - root - INFO - 2020-08-13 16:56:14
+2020-08-13 16:56:14,819 - root - INFO - GPU3: gpu util:72% | free memory:9111MiB
+2020-08-13 16:56:14,819 - root - INFO - GPU3: gpu util:74% | free memory:5721MiB
+2020-08-13 16:56:14,819 - root - INFO - GPU3: gpu util:74% | free memory:9111MiB
+2020-08-13 16:56:14,819 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 16:56:14,819 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:57:24,922 - root - INFO - 2020-08-13 16:57:24
+2020-08-13 16:57:24,922 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 16:57:24,922 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 16:57:24,922 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 16:57:24,922 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 16:57:24,922 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:58:35,030 - root - INFO - 2020-08-13 16:58:35
+2020-08-13 16:58:35,030 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 16:58:35,030 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 16:58:35,031 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 16:58:35,031 - root - INFO - GPU3: gpu util:90% | free memory:1035MiB
+2020-08-13 16:58:35,031 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 16:59:45,130 - root - INFO - 2020-08-13 16:59:45
+2020-08-13 16:59:45,130 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 16:59:45,130 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 16:59:45,131 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 16:59:45,131 - root - INFO - GPU3: gpu util:73% | free memory:1035MiB
+2020-08-13 16:59:45,131 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:00:55,240 - root - INFO - 2020-08-13 17:00:55
+2020-08-13 17:00:55,240 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 17:00:55,241 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 17:00:55,241 - root - INFO - GPU3: gpu util:78% | free memory:9111MiB
+2020-08-13 17:00:55,241 - root - INFO - GPU3: gpu util:82% | free memory:1035MiB
+2020-08-13 17:00:55,241 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:02:05,354 - root - INFO - 2020-08-13 17:02:05
+2020-08-13 17:02:05,354 - root - INFO - GPU3: gpu util:74% | free memory:9111MiB
+2020-08-13 17:02:05,354 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 17:02:05,354 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 17:02:05,354 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 17:02:05,354 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:03:15,499 - root - INFO - 2020-08-13 17:03:15
+2020-08-13 17:03:15,499 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 17:03:15,499 - root - INFO - GPU3: gpu util:87% | free memory:5721MiB
+2020-08-13 17:03:15,499 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 17:03:15,499 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 17:03:15,500 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:04:25,620 - root - INFO - 2020-08-13 17:04:25
+2020-08-13 17:04:25,621 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 17:04:25,621 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 17:04:25,621 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 17:04:25,621 - root - INFO - GPU3: gpu util:86% | free memory:1035MiB
+2020-08-13 17:04:25,621 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:05:35,715 - root - INFO - 2020-08-13 17:05:35
+2020-08-13 17:05:35,715 - root - INFO - GPU3: gpu util:86% | free memory:9111MiB
+2020-08-13 17:05:35,715 - root - INFO - GPU3: gpu util:90% | free memory:5721MiB
+2020-08-13 17:05:35,715 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 17:05:35,715 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 17:05:35,715 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:06:45,809 - root - INFO - 2020-08-13 17:06:45
+2020-08-13 17:06:45,809 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 17:06:45,809 - root - INFO - GPU3: gpu util:86% | free memory:5721MiB
+2020-08-13 17:06:45,810 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 17:06:45,810 - root - INFO - GPU3: gpu util:91% | free memory:1035MiB
+2020-08-13 17:06:45,810 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:07:55,897 - root - INFO - 2020-08-13 17:07:55
+2020-08-13 17:07:55,898 - root - INFO - GPU3: gpu util:78% | free memory:9111MiB
+2020-08-13 17:07:55,898 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 17:07:55,898 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 17:07:55,898 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 17:07:55,898 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:09:06,013 - root - INFO - 2020-08-13 17:09:06
+2020-08-13 17:09:06,014 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 17:09:06,014 - root - INFO - GPU3: gpu util:90% | free memory:5721MiB
+2020-08-13 17:09:06,014 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 17:09:06,014 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 17:09:06,014 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:10:16,138 - root - INFO - 2020-08-13 17:10:16
+2020-08-13 17:10:16,138 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 17:10:16,138 - root - INFO - GPU3: gpu util:85% | free memory:5721MiB
+2020-08-13 17:10:16,138 - root - INFO - GPU3: gpu util:70% | free memory:9111MiB
+2020-08-13 17:10:16,138 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 17:10:16,138 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:11:26,200 - root - INFO - 2020-08-13 17:11:26
+2020-08-13 17:11:26,201 - root - INFO - GPU3: gpu util:75% | free memory:9111MiB
+2020-08-13 17:11:26,201 - root - INFO - GPU3: gpu util:90% | free memory:5721MiB
+2020-08-13 17:11:26,201 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 17:11:26,201 - root - INFO - GPU3: gpu util:74% | free memory:1035MiB
+2020-08-13 17:11:26,201 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:12:36,319 - root - INFO - 2020-08-13 17:12:36
+2020-08-13 17:12:36,319 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 17:12:36,319 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 17:12:36,320 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 17:12:36,320 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 17:12:36,320 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:13:46,436 - root - INFO - 2020-08-13 17:13:46
+2020-08-13 17:13:46,436 - root - INFO - GPU3: gpu util:86% | free memory:9111MiB
+2020-08-13 17:13:46,436 - root - INFO - GPU3: gpu util:85% | free memory:5721MiB
+2020-08-13 17:13:46,436 - root - INFO - GPU3: gpu util:75% | free memory:9111MiB
+2020-08-13 17:13:46,436 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 17:13:46,436 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:14:56,545 - root - INFO - 2020-08-13 17:14:56
+2020-08-13 17:14:56,546 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 17:14:56,546 - root - INFO - GPU3: gpu util:81% | free memory:5721MiB
+2020-08-13 17:14:56,546 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 17:14:56,546 - root - INFO - GPU3: gpu util:86% | free memory:1035MiB
+2020-08-13 17:14:56,546 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:16:06,676 - root - INFO - 2020-08-13 17:16:06
+2020-08-13 17:16:06,676 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 17:16:06,676 - root - INFO - GPU3: gpu util:90% | free memory:5721MiB
+2020-08-13 17:16:06,676 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 17:16:06,676 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 17:16:06,677 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:17:16,798 - root - INFO - 2020-08-13 17:17:16
+2020-08-13 17:17:16,798 - root - INFO - GPU3: gpu util:75% | free memory:9111MiB
+2020-08-13 17:17:16,798 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 17:17:16,798 - root - INFO - GPU3: gpu util:75% | free memory:9111MiB
+2020-08-13 17:17:16,798 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 17:17:16,799 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:18:26,932 - root - INFO - 2020-08-13 17:18:26
+2020-08-13 17:18:26,932 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 17:18:26,933 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 17:18:26,933 - root - INFO - GPU3: gpu util:80% | free memory:9111MiB
+2020-08-13 17:18:26,933 - root - INFO - GPU3: gpu util:90% | free memory:1035MiB
+2020-08-13 17:18:26,933 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:19:37,008 - root - INFO - 2020-08-13 17:19:37
+2020-08-13 17:19:37,009 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 17:19:37,009 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 17:19:37,009 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 17:19:37,009 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 17:19:37,009 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:20:47,169 - root - INFO - 2020-08-13 17:20:47
+2020-08-13 17:20:47,169 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 17:20:47,170 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 17:20:47,170 - root - INFO - GPU3: gpu util:76% | free memory:9111MiB
+2020-08-13 17:20:47,170 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 17:20:47,170 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:21:57,309 - root - INFO - 2020-08-13 17:21:57
+2020-08-13 17:21:57,309 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 17:21:57,309 - root - INFO - GPU3: gpu util:90% | free memory:5721MiB
+2020-08-13 17:21:57,309 - root - INFO - GPU3: gpu util:86% | free memory:9111MiB
+2020-08-13 17:21:57,309 - root - INFO - GPU3: gpu util:86% | free memory:1035MiB
+2020-08-13 17:21:57,309 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:23:07,419 - root - INFO - 2020-08-13 17:23:07
+2020-08-13 17:23:07,419 - root - INFO - GPU3: gpu util:75% | free memory:9111MiB
+2020-08-13 17:23:07,419 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 17:23:07,419 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 17:23:07,419 - root - INFO - GPU3: gpu util:75% | free memory:1035MiB
+2020-08-13 17:23:07,419 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:24:17,536 - root - INFO - 2020-08-13 17:24:17
+2020-08-13 17:24:17,537 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 17:24:17,537 - root - INFO - GPU3: gpu util:85% | free memory:5721MiB
+2020-08-13 17:24:17,537 - root - INFO - GPU3: gpu util:73% | free memory:9111MiB
+2020-08-13 17:24:17,537 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 17:24:17,537 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:25:27,677 - root - INFO - 2020-08-13 17:25:27
+2020-08-13 17:25:27,677 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 17:25:27,678 - root - INFO - GPU3: gpu util:78% | free memory:5721MiB
+2020-08-13 17:25:27,678 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 17:25:27,678 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 17:25:27,678 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:26:37,798 - root - INFO - 2020-08-13 17:26:37
+2020-08-13 17:26:37,799 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 17:26:37,799 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 17:26:37,799 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 17:26:37,799 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 17:26:37,799 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:27:47,903 - root - INFO - 2020-08-13 17:27:47
+2020-08-13 17:27:47,904 - root - INFO - GPU3: gpu util:82% | free memory:9111MiB
+2020-08-13 17:27:47,904 - root - INFO - GPU3: gpu util:91% | free memory:5721MiB
+2020-08-13 17:27:47,904 - root - INFO - GPU3: gpu util:70% | free memory:9111MiB
+2020-08-13 17:27:47,904 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 17:27:47,904 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:28:58,032 - root - INFO - 2020-08-13 17:28:58
+2020-08-13 17:28:58,033 - root - INFO - GPU3: gpu util:67% | free memory:9111MiB
+2020-08-13 17:28:58,033 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 17:28:58,033 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 17:28:58,033 - root - INFO - GPU3: gpu util:90% | free memory:1035MiB
+2020-08-13 17:28:58,033 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:30:08,169 - root - INFO - 2020-08-13 17:30:08
+2020-08-13 17:30:08,169 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 17:30:08,169 - root - INFO - GPU3: gpu util:92% | free memory:5721MiB
+2020-08-13 17:30:08,169 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 17:30:08,169 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 17:30:08,169 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:31:18,292 - root - INFO - 2020-08-13 17:31:18
+2020-08-13 17:31:18,293 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 17:31:18,293 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 17:31:18,293 - root - INFO - GPU3: gpu util:80% | free memory:9111MiB
+2020-08-13 17:31:18,293 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 17:31:18,293 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:32:28,414 - root - INFO - 2020-08-13 17:32:28
+2020-08-13 17:32:28,415 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 17:32:28,415 - root - INFO - GPU3: gpu util:87% | free memory:5721MiB
+2020-08-13 17:32:28,415 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 17:32:28,415 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 17:32:28,415 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:33:38,521 - root - INFO - 2020-08-13 17:33:38
+2020-08-13 17:33:38,521 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 17:33:38,521 - root - INFO - GPU3: gpu util:70% | free memory:5721MiB
+2020-08-13 17:33:38,521 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 17:33:38,521 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 17:33:38,522 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:34:48,620 - root - INFO - 2020-08-13 17:34:48
+2020-08-13 17:34:48,620 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 17:34:48,620 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 17:34:48,620 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 17:34:48,620 - root - INFO - GPU3: gpu util:77% | free memory:1035MiB
+2020-08-13 17:34:48,621 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:35:58,759 - root - INFO - 2020-08-13 17:35:58
+2020-08-13 17:35:58,759 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 17:35:58,760 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 17:35:58,760 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 17:35:58,760 - root - INFO - GPU3: gpu util:90% | free memory:1035MiB
+2020-08-13 17:35:58,760 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:37:08,868 - root - INFO - 2020-08-13 17:37:08
+2020-08-13 17:37:08,869 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 17:37:08,869 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 17:37:08,869 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 17:37:08,869 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 17:37:08,869 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:38:19,034 - root - INFO - 2020-08-13 17:38:19
+2020-08-13 17:38:19,034 - root - INFO - GPU3: gpu util:74% | free memory:9111MiB
+2020-08-13 17:38:19,035 - root - INFO - GPU3: gpu util:86% | free memory:5721MiB
+2020-08-13 17:38:19,035 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 17:38:19,035 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 17:38:19,035 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:39:29,142 - root - INFO - 2020-08-13 17:39:29
+2020-08-13 17:39:29,142 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 17:39:29,143 - root - INFO - GPU3: gpu util:87% | free memory:5721MiB
+2020-08-13 17:39:29,143 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 17:39:29,143 - root - INFO - GPU3: gpu util:90% | free memory:1035MiB
+2020-08-13 17:39:29,143 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:40:39,252 - root - INFO - 2020-08-13 17:40:39
+2020-08-13 17:40:39,252 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 17:40:39,253 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 17:40:39,253 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 17:40:39,253 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 17:40:39,253 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:41:49,368 - root - INFO - 2020-08-13 17:41:49
+2020-08-13 17:41:49,369 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 17:41:49,369 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 17:41:49,369 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 17:41:49,369 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 17:41:49,369 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:42:59,479 - root - INFO - 2020-08-13 17:42:59
+2020-08-13 17:42:59,479 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 17:42:59,479 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 17:42:59,479 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 17:42:59,479 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 17:42:59,479 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:44:09,612 - root - INFO - 2020-08-13 17:44:09
+2020-08-13 17:44:09,612 - root - INFO - GPU3: gpu util:76% | free memory:9111MiB
+2020-08-13 17:44:09,613 - root - INFO - GPU3: gpu util:72% | free memory:5721MiB
+2020-08-13 17:44:09,613 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 17:44:09,613 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 17:44:09,613 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:45:19,726 - root - INFO - 2020-08-13 17:45:19
+2020-08-13 17:45:19,726 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 17:45:19,726 - root - INFO - GPU3: gpu util:90% | free memory:5721MiB
+2020-08-13 17:45:19,726 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 17:45:19,726 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 17:45:19,726 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:46:29,841 - root - INFO - 2020-08-13 17:46:29
+2020-08-13 17:46:29,841 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 17:46:29,841 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 17:46:29,841 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 17:46:29,841 - root - INFO - GPU3: gpu util:73% | free memory:1035MiB
+2020-08-13 17:46:29,842 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:47:39,969 - root - INFO - 2020-08-13 17:47:39
+2020-08-13 17:47:39,969 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 17:47:39,969 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 17:47:39,969 - root - INFO - GPU3: gpu util:86% | free memory:9111MiB
+2020-08-13 17:47:39,969 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 17:47:39,969 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:48:50,107 - root - INFO - 2020-08-13 17:48:50
+2020-08-13 17:48:50,107 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 17:48:50,107 - root - INFO - GPU3: gpu util:90% | free memory:5721MiB
+2020-08-13 17:48:50,107 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 17:48:50,107 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 17:48:50,107 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:50:00,209 - root - INFO - 2020-08-13 17:50:00
+2020-08-13 17:50:00,209 - root - INFO - GPU3: gpu util:76% | free memory:9111MiB
+2020-08-13 17:50:00,209 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 17:50:00,209 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 17:50:00,209 - root - INFO - GPU3: gpu util:91% | free memory:1035MiB
+2020-08-13 17:50:00,209 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:51:10,329 - root - INFO - 2020-08-13 17:51:10
+2020-08-13 17:51:10,330 - root - INFO - GPU3: gpu util:0% | free memory:12778MiB
+2020-08-13 17:51:10,330 - root - INFO - GPU3: gpu util:87% | free memory:5721MiB
+2020-08-13 17:51:10,330 - root - INFO - GPU3: gpu util:86% | free memory:9111MiB
+2020-08-13 17:51:10,330 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 17:51:10,330 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:52:20,426 - root - INFO - 2020-08-13 17:52:20
+2020-08-13 17:52:20,426 - root - INFO - GPU3: gpu util:0% | free memory:12778MiB
+2020-08-13 17:52:20,426 - root - INFO - GPU3: gpu util:85% | free memory:5721MiB
+2020-08-13 17:52:20,426 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 17:52:20,426 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 17:52:20,426 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:53:30,534 - root - INFO - 2020-08-13 17:53:30
+2020-08-13 17:53:30,534 - root - INFO - GPU3: gpu util:0% | free memory:12778MiB
+2020-08-13 17:53:30,534 - root - INFO - GPU3: gpu util:71% | free memory:5721MiB
+2020-08-13 17:53:30,534 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 17:53:30,534 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 17:53:30,534 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:54:40,583 - root - INFO - 2020-08-13 17:54:40
+2020-08-13 17:54:40,584 - root - INFO - GPU3: gpu util:0% | free memory:12778MiB
+2020-08-13 17:54:40,584 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 17:54:40,584 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 17:54:40,584 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 17:54:40,584 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:55:50,701 - root - INFO - 2020-08-13 17:55:50
+2020-08-13 17:55:50,701 - root - INFO - GPU3: gpu util:0% | free memory:12778MiB
+2020-08-13 17:55:50,701 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 17:55:50,701 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 17:55:50,701 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 17:55:50,702 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:57:00,776 - root - INFO - 2020-08-13 17:57:00
+2020-08-13 17:57:00,776 - root - INFO - GPU3: gpu util:83% | free memory:9092MiB
+2020-08-13 17:57:00,776 - root - INFO - GPU3: gpu util:86% | free memory:5721MiB
+2020-08-13 17:57:00,777 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 17:57:00,777 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 17:57:00,777 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:58:10,899 - root - INFO - 2020-08-13 17:58:10
+2020-08-13 17:58:10,899 - root - INFO - GPU3: gpu util:85% | free memory:9090MiB
+2020-08-13 17:58:10,900 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 17:58:10,900 - root - INFO - GPU3: gpu util:80% | free memory:9111MiB
+2020-08-13 17:58:10,900 - root - INFO - GPU3: gpu util:77% | free memory:1035MiB
+2020-08-13 17:58:10,900 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 17:59:21,019 - root - INFO - 2020-08-13 17:59:21
+2020-08-13 17:59:21,019 - root - INFO - GPU3: gpu util:81% | free memory:9090MiB
+2020-08-13 17:59:21,019 - root - INFO - GPU3: gpu util:90% | free memory:5721MiB
+2020-08-13 17:59:21,019 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 17:59:21,020 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 17:59:21,020 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 18:00:31,104 - root - INFO - 2020-08-13 18:00:31
+2020-08-13 18:00:31,104 - root - INFO - GPU3: gpu util:73% | free memory:9090MiB
+2020-08-13 18:00:31,104 - root - INFO - GPU3: gpu util:84% | free memory:5721MiB
+2020-08-13 18:00:31,105 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 18:00:31,105 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 18:00:31,105 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 18:01:41,241 - root - INFO - 2020-08-13 18:01:41
+2020-08-13 18:01:41,242 - root - INFO - GPU3: gpu util:84% | free memory:9090MiB
+2020-08-13 18:01:41,242 - root - INFO - GPU3: gpu util:91% | free memory:5721MiB
+2020-08-13 18:01:41,242 - root - INFO - GPU3: gpu util:78% | free memory:9111MiB
+2020-08-13 18:01:41,242 - root - INFO - GPU3: gpu util:86% | free memory:1035MiB
+2020-08-13 18:01:41,242 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 18:02:51,311 - root - INFO - 2020-08-13 18:02:51
+2020-08-13 18:02:51,311 - root - INFO - GPU3: gpu util:85% | free memory:9090MiB
+2020-08-13 18:02:51,312 - root - INFO - GPU3: gpu util:76% | free memory:5721MiB
+2020-08-13 18:02:51,312 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 18:02:51,312 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 18:02:51,312 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 18:04:01,424 - root - INFO - 2020-08-13 18:04:01
+2020-08-13 18:04:01,425 - root - INFO - GPU3: gpu util:85% | free memory:9090MiB
+2020-08-13 18:04:01,425 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 18:04:01,425 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 18:04:01,425 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 18:04:01,425 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 18:05:11,567 - root - INFO - 2020-08-13 18:05:11
+2020-08-13 18:05:11,567 - root - INFO - GPU3: gpu util:85% | free memory:9090MiB
+2020-08-13 18:05:11,567 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 18:05:11,567 - root - INFO - GPU3: gpu util:71% | free memory:9111MiB
+2020-08-13 18:05:11,567 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 18:05:11,567 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 18:06:21,742 - root - INFO - 2020-08-13 18:06:21
+2020-08-13 18:06:21,743 - root - INFO - GPU3: gpu util:75% | free memory:9090MiB
+2020-08-13 18:06:21,743 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 18:06:21,743 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 18:06:21,743 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 18:06:21,743 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 18:07:31,867 - root - INFO - 2020-08-13 18:07:31
+2020-08-13 18:07:31,867 - root - INFO - GPU3: gpu util:83% | free memory:9090MiB
+2020-08-13 18:07:31,867 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 18:07:31,867 - root - INFO - GPU3: gpu util:86% | free memory:9111MiB
+2020-08-13 18:07:31,867 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 18:07:31,867 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 18:08:41,976 - root - INFO - 2020-08-13 18:08:41
+2020-08-13 18:08:41,977 - root - INFO - GPU3: gpu util:85% | free memory:9090MiB
+2020-08-13 18:08:41,977 - root - INFO - GPU3: gpu util:90% | free memory:5721MiB
+2020-08-13 18:08:41,977 - root - INFO - GPU3: gpu util:76% | free memory:9111MiB
+2020-08-13 18:08:41,977 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 18:08:41,977 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 18:09:52,119 - root - INFO - 2020-08-13 18:09:52
+2020-08-13 18:09:52,120 - root - INFO - GPU3: gpu util:84% | free memory:9090MiB
+2020-08-13 18:09:52,120 - root - INFO - GPU3: gpu util:92% | free memory:5721MiB
+2020-08-13 18:09:52,120 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 18:09:52,120 - root - INFO - GPU3: gpu util:79% | free memory:1035MiB
+2020-08-13 18:09:52,120 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 18:11:02,240 - root - INFO - 2020-08-13 18:11:02
+2020-08-13 18:11:02,240 - root - INFO - GPU3: gpu util:83% | free memory:9090MiB
+2020-08-13 18:11:02,240 - root - INFO - GPU3: gpu util:90% | free memory:5721MiB
+2020-08-13 18:11:02,240 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 18:11:02,240 - root - INFO - GPU3: gpu util:90% | free memory:1035MiB
+2020-08-13 18:11:02,240 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 18:12:12,379 - root - INFO - 2020-08-13 18:12:12
+2020-08-13 18:12:12,379 - root - INFO - GPU3: gpu util:64% | free memory:9090MiB
+2020-08-13 18:12:12,379 - root - INFO - GPU3: gpu util:79% | free memory:5721MiB
+2020-08-13 18:12:12,379 - root - INFO - GPU3: gpu util:75% | free memory:9111MiB
+2020-08-13 18:12:12,379 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 18:12:12,380 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 18:13:22,540 - root - INFO - 2020-08-13 18:13:22
+2020-08-13 18:13:22,540 - root - INFO - GPU3: gpu util:82% | free memory:9090MiB
+2020-08-13 18:13:22,540 - root - INFO - GPU3: gpu util:78% | free memory:5721MiB
+2020-08-13 18:13:22,541 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 18:13:22,541 - root - INFO - GPU3: gpu util:90% | free memory:1035MiB
+2020-08-13 18:13:22,541 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 18:14:32,616 - root - INFO - 2020-08-13 18:14:32
+2020-08-13 18:14:32,616 - root - INFO - GPU3: gpu util:84% | free memory:9090MiB
+2020-08-13 18:14:32,616 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 18:14:32,616 - root - INFO - GPU3: gpu util:86% | free memory:9111MiB
+2020-08-13 18:14:32,616 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 18:14:32,616 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 18:15:42,734 - root - INFO - 2020-08-13 18:15:42
+2020-08-13 18:15:42,734 - root - INFO - GPU3: gpu util:82% | free memory:9090MiB
+2020-08-13 18:15:42,734 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 18:15:42,734 - root - INFO - GPU3: gpu util:69% | free memory:9111MiB
+2020-08-13 18:15:42,734 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 18:15:42,734 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 18:16:52,867 - root - INFO - 2020-08-13 18:16:52
+2020-08-13 18:16:52,867 - root - INFO - GPU3: gpu util:85% | free memory:9090MiB
+2020-08-13 18:16:52,868 - root - INFO - GPU3: gpu util:85% | free memory:5721MiB
+2020-08-13 18:16:52,868 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 18:16:52,868 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 18:16:52,868 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 18:18:03,003 - root - INFO - 2020-08-13 18:18:03
+2020-08-13 18:18:03,003 - root - INFO - GPU3: gpu util:75% | free memory:9090MiB
+2020-08-13 18:18:03,003 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 18:18:03,003 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 18:18:03,003 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 18:18:03,003 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 18:19:13,106 - root - INFO - 2020-08-13 18:19:13
+2020-08-13 18:19:13,106 - root - INFO - GPU3: gpu util:81% | free memory:9090MiB
+2020-08-13 18:19:13,106 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 18:19:13,106 - root - INFO - GPU3: gpu util:76% | free memory:9111MiB
+2020-08-13 18:19:13,106 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 18:19:13,107 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 18:20:23,208 - root - INFO - 2020-08-13 18:20:23
+2020-08-13 18:20:23,208 - root - INFO - GPU3: gpu util:83% | free memory:9090MiB
+2020-08-13 18:20:23,209 - root - INFO - GPU3: gpu util:86% | free memory:5721MiB
+2020-08-13 18:20:23,209 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 18:20:23,209 - root - INFO - GPU3: gpu util:73% | free memory:1035MiB
+2020-08-13 18:20:23,209 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 18:21:33,299 - root - INFO - 2020-08-13 18:21:33
+2020-08-13 18:21:33,300 - root - INFO - GPU3: gpu util:85% | free memory:9090MiB
+2020-08-13 18:21:33,300 - root - INFO - GPU3: gpu util:90% | free memory:5721MiB
+2020-08-13 18:21:33,300 - root - INFO - GPU3: gpu util:86% | free memory:9111MiB
+2020-08-13 18:21:33,300 - root - INFO - GPU3: gpu util:81% | free memory:1035MiB
+2020-08-13 18:21:33,300 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 18:22:43,420 - root - INFO - 2020-08-13 18:22:43
+2020-08-13 18:22:43,420 - root - INFO - GPU3: gpu util:84% | free memory:9090MiB
+2020-08-13 18:22:43,420 - root - INFO - GPU3: gpu util:73% | free memory:5721MiB
+2020-08-13 18:22:43,420 - root - INFO - GPU3: gpu util:74% | free memory:9111MiB
+2020-08-13 18:22:43,420 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 18:22:43,421 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 18:23:53,520 - root - INFO - 2020-08-13 18:23:53
+2020-08-13 18:23:53,520 - root - INFO - GPU3: gpu util:74% | free memory:9090MiB
+2020-08-13 18:23:53,520 - root - INFO - GPU3: gpu util:90% | free memory:5721MiB
+2020-08-13 18:23:53,520 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 18:23:53,520 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 18:23:53,520 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 18:25:03,627 - root - INFO - 2020-08-13 18:25:03
+2020-08-13 18:25:03,627 - root - INFO - GPU3: gpu util:84% | free memory:9090MiB
+2020-08-13 18:25:03,627 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 18:25:03,627 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 18:25:03,627 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 18:25:03,627 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 18:26:13,766 - root - INFO - 2020-08-13 18:26:13
+2020-08-13 18:26:13,767 - root - INFO - GPU3: gpu util:82% | free memory:9090MiB
+2020-08-13 18:26:13,767 - root - INFO - GPU3: gpu util:85% | free memory:5721MiB
+2020-08-13 18:26:13,767 - root - INFO - GPU3: gpu util:75% | free memory:9111MiB
+2020-08-13 18:26:13,767 - root - INFO - GPU3: gpu util:87% | free memory:1035MiB
+2020-08-13 18:26:13,767 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 18:27:23,806 - root - INFO - 2020-08-13 18:27:23
+2020-08-13 18:27:23,807 - root - INFO - GPU3: gpu util:83% | free memory:9090MiB
+2020-08-13 18:27:23,807 - root - INFO - GPU3: gpu util:90% | free memory:5721MiB
+2020-08-13 18:27:23,807 - root - INFO - GPU3: gpu util:84% | free memory:9111MiB
+2020-08-13 18:27:23,807 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 18:27:23,807 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 18:28:33,910 - root - INFO - 2020-08-13 18:28:33
+2020-08-13 18:28:33,910 - root - INFO - GPU3: gpu util:84% | free memory:9090MiB
+2020-08-13 18:28:33,910 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 18:28:33,910 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
+2020-08-13 18:28:33,910 - root - INFO - GPU3: gpu util:86% | free memory:1035MiB
+2020-08-13 18:28:33,911 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
