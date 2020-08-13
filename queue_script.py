@@ -6,30 +6,27 @@ https://blog.csdn.net/metheir/article/details/86748852
 """
 #### Log for new features
 """
-1. tell subprogram which GPU to use without changing that program file
+
 """
 import os
 import sys
 import time
 import datetime
-from email.mime.text import MIMEText
+import argparse
 import smtplib
-import pynvml
 import subprocess
 import logging
 import traceback
+from email.mime.text import MIMEText
+
+import pynvml
 import numpy as np
 
-#################### Change the settings ####################
-PING_INTERVAL = 10   # Unit sec
-MEASURE_DURATION = 5   # Unit sec
-
+#################### Default settings ####################
 MIN_FREE_MEMORY = 8000   # Unit MB
 MAX_GPU_UTIL = 20   # Unit %
-NUM_GPUS = 2
-
-MAX_EXCEPTION = 20
-
+NUM_GPUS = 1
+#################### command ####################
 def get_command(free_gpu_id, avg_free_memory, avg_gpu_util):
     for gid in range(len(avg_free_memory)):
         if gid not in free_gpu_id:
@@ -38,7 +35,7 @@ def get_command(free_gpu_id, avg_free_memory, avg_gpu_util):
     CMD_prefix = 'CUDA_VISIBLE_DEVICES=%d' % max_mem_id    # use GPU with maximum GPU memory
     CMD = 'nohup bash ./grounding/LGI4temporalgrounding/scripts/train_model.sh LGI tgn_lgi charades 0 4 0 2>&1 &'
     return CMD_prefix + CMD
-
+##############################################################
 
 def send_mail(mailtype, extra_subject=None, extra_content=None, extra_dict=None):
     """
@@ -126,29 +123,30 @@ def avg_gpu_info(measure_duration, print_info=False):
             logging.info(gpu_info)
     return avg_free_memory, avg_gpu_util
  
-def queue_protocol(ping_interval, measure_duration):
-    available = False
+def queue_protocol(args):
     free_gpu_id = []
     free_gpu_info = ""
+    # monitor and judge condition
     while True:
-        avg_free_memory, avg_gpu_util = avg_gpu_info(measure_duration, print_info=True)
-        # metrics
-        gpu_available_uitl = avg_gpu_util <= MAX_GPU_UTIL
-        gpu_available_mem = avg_free_memory >= MIN_FREE_MEMORY
+        # monitor
+        avg_free_memory, avg_gpu_util = avg_gpu_info(args.measure_duration, print_info=True)
+        # judge condition
+        gpu_available_uitl = avg_gpu_util <= args.max_util
+        gpu_available_mem = avg_free_memory >= args.min_memory
         gpu_available = gpu_available_uitl * gpu_available_mem
         free_gpu_id = np.argwhere(gpu_available==True)
         num_gpu_available = len(free_gpu_id)
-        if num_gpu_available >= NUM_GPUS:
+        if num_gpu_available >= args.min_gpu:
             logging.info('>>>>>>>>>>>>>>>>>>>>Condition satisfied, command initiated:<<<<<<<<<<<<<<<<<<')
-            available = True
             for gpu_id in free_gpu_id:
                 gpu_info = gpu_info + 'GPU%d: gpu util:%d%% | free memory:%dMiB\n' % (id, avg_gpu_util[gpu_id], avg_free_memory[gpu_id])
             break
         else:
             logging.info('<<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>')
-            time.sleep(ping_interval)
-    
+            time.sleep(args.monitor_interval)
+    # get command
     cmd = get_command(free_gpu_id, avg_free_memory, avg_gpu_util)
+
     os.system('rm tmp')
     print('\n' + cmd)
     send_mail(mailtype='report', extra_subject="恭喜，服务器空闲！正在提交程序... ...", extra_content="白面鸮监测到iLearn服务器空闲:\n" + free_gpu_info)
@@ -160,16 +158,32 @@ def queue_protocol(ping_interval, measure_duration):
     return task.poll(), out, err
 
 
+def argument_parser(epilog=None):
+    parser = argparse.ArgumentParser()
+
+    parser.add_argument("--monitor-interval", type=int, default=60, help="interval of checking gpu information (sec)")
+    parser.add_argument("--measure-duration", type=int, default=10, help="duration of time-averaged gpu information (sec)")
+    parser.add_argument("--max-retry", type=int, default=1, help="maximun retry of the command")
+    parser.add_argument("--min-memory", type=int, default=MIN_FREE_MEMORY, help="minimum gpu free memory of a gpu (MB)")
+    parser.add_argument("--max-util", type=int, default=MAX_GPU_UTIL, help="maximum gpu utilization rate of a gpu (%)")
+    parser.add_argument("--min-gpu", type=int, default=1, help="minimun gpu number that satisfy condition")
+    #parser.add_argument("--eval-only", action="store_true", help="perform evaluation only")
+
+    return parser
+
+
 if __name__ == '__main__':
+    args = argument_parser().parse_args()
     #Initialization
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
     logging.info("PID:%d" % os.getpid())
+    logging.info("Command Line Args:\n" + args)
     exception_list = {}
     total_exception = 0
     #Queue loop
     while True:
         try:
-            return_code, out, err = queue_protocol(PING_INTERVAL, MEASURE_DURATION)  # Caution, return value is of binary format
+            return_code, out, err = queue_protocol(args)  # Caution, return value is of binary format
             if return_code is not 0: # If failed, send report and queue again
                 print('>>>>>>>>>>>>>>>>>>>>Task error occured:<<<<<<<<<<<<<<<<<<')
                 logging.error(str(err, 'utf-8'))
@@ -187,8 +201,8 @@ if __name__ == '__main__':
             else:
                 exception_list[e] = 1
                 send_mail(mailtype='failed', extra_content=str(e))
-        if total_exception>=MAX_EXCEPTION:
-            logging.critical('程序尝试次数超过%d次，自动终止' % MAX_EXCEPTION)
-            send_mail(mailtype='report', extra_subject='程序尝试次数超过%d次，自动终止' % MAX_EXCEPTION, extra_dict = exception_list)
+        if total_exception>=args.max_retry:
+            logging.critical('程序尝试次数超过%d次，自动终止' % args.max_retry)
+            send_mail(mailtype='report', extra_subject='程序尝试次数超过%d次，自动终止' % args.max_retry, extra_dict = exception_list)
             exit(1)
-        time.sleep(PING_INTERVAL)
+        time.sleep(args.monitor_interval)
