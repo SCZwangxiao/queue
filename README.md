@@ -11,8 +11,8 @@ run your command when gpu satisfy your condition:
 
 send e-mail to inform you:
 - when running your command
-- when error occured (comming soon)
-- when your command finfished (comming soon)
+- when error occurred
+- when your command finfished
 
 ## Installation
 packages

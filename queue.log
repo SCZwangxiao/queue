@@ -1920,3 +1920,27 @@
 2020-08-13 18:28:33,910 - root - INFO - GPU3: gpu util:83% | free memory:9111MiB
 2020-08-13 18:28:33,910 - root - INFO - GPU3: gpu util:86% | free memory:1035MiB
 2020-08-13 18:28:33,911 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 18:29:44,044 - root - INFO - 2020-08-13 18:29:44
+2020-08-13 18:29:44,045 - root - INFO - GPU3: gpu util:73% | free memory:9090MiB
+2020-08-13 18:29:44,045 - root - INFO - GPU3: gpu util:89% | free memory:5721MiB
+2020-08-13 18:29:44,045 - root - INFO - GPU3: gpu util:73% | free memory:9111MiB
+2020-08-13 18:29:44,045 - root - INFO - GPU3: gpu util:89% | free memory:1035MiB
+2020-08-13 18:29:44,045 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 18:30:54,231 - root - INFO - 2020-08-13 18:30:54
+2020-08-13 18:30:54,231 - root - INFO - GPU3: gpu util:83% | free memory:9090MiB
+2020-08-13 18:30:54,231 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 18:30:54,231 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 18:30:54,231 - root - INFO - GPU3: gpu util:88% | free memory:1035MiB
+2020-08-13 18:30:54,232 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 18:32:04,384 - root - INFO - 2020-08-13 18:32:04
+2020-08-13 18:32:04,384 - root - INFO - GPU3: gpu util:82% | free memory:9090MiB
+2020-08-13 18:32:04,384 - root - INFO - GPU3: gpu util:69% | free memory:5721MiB
+2020-08-13 18:32:04,385 - root - INFO - GPU3: gpu util:85% | free memory:9111MiB
+2020-08-13 18:32:04,385 - root - INFO - GPU3: gpu util:68% | free memory:1035MiB
+2020-08-13 18:32:04,385 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-08-13 18:33:14,497 - root - INFO - 2020-08-13 18:33:14
+2020-08-13 18:33:14,497 - root - INFO - GPU3: gpu util:83% | free memory:9090MiB
+2020-08-13 18:33:14,497 - root - INFO - GPU3: gpu util:88% | free memory:5721MiB
+2020-08-13 18:33:14,497 - root - INFO - GPU3: gpu util:73% | free memory:9111MiB
+2020-08-13 18:33:14,498 - root - INFO - GPU3: gpu util:90% | free memory:1035MiB
+2020-08-13 18:33:14,498 - root - INFO - <<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>
