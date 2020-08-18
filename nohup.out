@@ -14,3 +14,12 @@ Traceback (most recent call last):
   File "queue_script.py", line 185, in <module>
     logging.info("Command Line Args:\n" + args)
 TypeError: must be str, not Namespace
+Traceback (most recent call last):
+  File "queue_script.py", line 191, in <module>
+    return parser
+  File "queue_script.py", line 144, in queue_protocol
+    logging.info(gpu_info)
+UnboundLocalError: local variable 'gpu_info' referenced before assignment
+Command Line Args:
+ Namespace(max_retry=1, max_util=20, measure_duration=10, min_gpu=2, min_memory=8000, monitor_interval=60)
+>>>>>>>>>>>>>>>>>>>>Exception:<<<<<<<<<<<<<<<<<<

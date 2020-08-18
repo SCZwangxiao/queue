@@ -160,7 +160,7 @@ def queue_protocol(args):
         if num_gpu_available >= args.min_gpu:
             logging.info('>>>>>>>>>>>>>>>>>>>>Condition satisfied, command initiated:<<<<<<<<<<<<<<<<<<')
             for gpu_id in free_gpu_id:
-                gpu_info = gpu_info + 'GPU%d: gpu util:%d%% | free memory:%dMiB\n' % (id, avg_gpu_util[gpu_id], avg_free_memory[gpu_id])
+                free_gpu_info = free_gpu_info + 'GPU%d: gpu util:%d%% | free memory:%dMiB\n' % (id, avg_gpu_util[gpu_id], avg_free_memory[gpu_id])
             break
         else:
             logging.info('<<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>')
