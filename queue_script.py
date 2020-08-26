@@ -23,7 +23,7 @@ import pynvml
 import numpy as np
 
 #################### Default settings ####################
-MIN_FREE_MEMORY = 8000   # Unit MB
+MIN_FREE_MEMORY = 10000   # Unit MB
 MAX_GPU_UTIL = 20   # Unit %
 NUM_GPUS = 1
 ########################## command ##########################
@@ -39,18 +39,18 @@ def run_command(free_gpu_id, avg_free_memory, avg_gpu_util):
         task_err: str, stderr of the command
     """
     ### command ###
-    cmd = 'nohup bash ./grounding/LGI4temporalgrounding/scripts/train_model.sh LGI tgn_lgi charades 0 4 0 2>&1 &'
+    cmd = "python /home/share/wangxiao/grounding/ReTLG/Detection/detection.py"
+    cwd = "/home/share/wangxiao/grounding/ReTLG/Detection/"
     # Generating shell command
     for gid in range(len(avg_free_memory)):
         if gid not in free_gpu_id:
             avg_free_memory[gid] = 0
     max_mem_id = np.argmax(avg_free_memory)
     CMD_prefix = 'CUDA_VISIBLE_DEVICES=%d ' % max_mem_id    # use GPU with maximum GPU memory
-    #CMD = CMD_prefix + cmd
-    CMD = 'python'
+    CMD = CMD_prefix + cmd
 
     # launch subprocess
-    task = subprocess.Popen(CMD, shell=True, 
+    task = subprocess.Popen(CMD, shell=True, cwd=cwd, 
                             stdout=subprocess.PIPE, stderr=subprocess.PIPE, 
                             universal_newlines=True)  # if universal_newlines=False the output will be in binary format
     return_code = task.poll()
@@ -140,7 +140,7 @@ def avg_gpu_info(measure_duration, print_info=False):
         present_time = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
         logging.info(present_time)
         for gpu_id in range(gpu_count):
-            gpu_info = 'GPU%d: gpu util:%d%% | free memory:%dMiB' % (id, avg_gpu_util[gpu_id], avg_free_memory[gpu_id])
+            gpu_info = 'GPU%d: gpu util:%d%% | free memory:%dMiB' % (gpu_id, avg_gpu_util[gpu_id], avg_free_memory[gpu_id])
             logging.info(gpu_info)
     return avg_free_memory, avg_gpu_util
  
@@ -160,7 +160,7 @@ def queue_protocol(args):
         if num_gpu_available >= args.min_gpu:
             logging.info('>>>>>>>>>>>>>>>>>>>>Condition satisfied, command initiated:<<<<<<<<<<<<<<<<<<')
             for gpu_id in free_gpu_id:
-                free_gpu_info = free_gpu_info + 'GPU%d: gpu util:%d%% | free memory:%dMiB\n' % (id, avg_gpu_util[gpu_id], avg_free_memory[gpu_id])
+                free_gpu_info = free_gpu_info + 'GPU%d: gpu util:%d%% | free memory:%dMiB\n' % (gpu_id, avg_gpu_util[gpu_id], avg_free_memory[gpu_id])
             break
         else:
             logging.info('<<<<<<<<<<<<<<<<<<<<<<<<<<<<Condition not satisfied>>>>>>>>>>>>>>>>>>>>>>>>>>')
@@ -195,7 +195,7 @@ if __name__ == '__main__':
     args = argument_parser().parse_args()
     #Initialization
     logging.basicConfig(level=logging.INFO,
-                        filename='./queue.log',
+                        filename='./{}_queue.log'.format(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')),
                         filemode='a',
                         format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
     logging.info("PID:%d" % os.getpid())
