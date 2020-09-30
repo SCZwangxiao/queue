@@ -22,41 +22,9 @@ from email.mime.text import MIMEText
 import pynvml
 import numpy as np
 
-#################### Default settings ####################
-MIN_FREE_MEMORY = 10000   # Unit MB
-MAX_GPU_UTIL = 20   # Unit %
-NUM_GPUS = 1
-########################## command ##########################
-def run_command(free_gpu_id, avg_free_memory, avg_gpu_util):
-    """
-    Input:
-        free_gpu_id: numpy.array(int), id of gpu which satisfy the condition
-        avg_free_memory: numpy.array(int), len=gpu_num
-        avg_gpu_util: numpy.array(int), len=gpu_num
-    Output:
-        return_code: int, 0 for success, else failure
-        task_out: str, stdout of the command
-        task_err: str, stderr of the command
-    """
-    ### command ###
-    cmd = "python /home/share/wangxiao/grounding/ReTLG/Detection/detection.py"
-    cwd = "/home/share/wangxiao/grounding/ReTLG/Detection/"
-    # Generating shell command
-    for gid in range(len(avg_free_memory)):
-        if gid not in free_gpu_id:
-            avg_free_memory[gid] = 0
-    max_mem_id = np.argmax(avg_free_memory)
-    CMD_prefix = 'CUDA_VISIBLE_DEVICES=%d ' % max_mem_id    # use GPU with maximum GPU memory
-    CMD = CMD_prefix + cmd
+from user import run_command
+from user import COMPUTER_NAME
 
-    # launch subprocess
-    task = subprocess.Popen(CMD, shell=True, cwd=cwd, 
-                            stdout=subprocess.PIPE, stderr=subprocess.PIPE, 
-                            universal_newlines=True)  # if universal_newlines=False the output will be in binary format
-    return_code = task.poll()
-    task_out, task_err = task.communicate()
-    return return_code, task_out, task_err
-##############################################################
 
 def send_mail(mailtype, extra_subject=None, extra_content=None, extra_dict=None):
     """
@@ -67,12 +35,13 @@ def send_mail(mailtype, extra_subject=None, extra_content=None, extra_dict=None)
     """
     reveivers = "1216740594@qq.com"
     
+    mail_content = COMPUTER_NAME + ':'
     if mailtype == 'failed':
-        mail_content = "程序出错！捕捉到以下错误：\n" + extra_content
+        mail_content = mail_content + "程序出错！捕捉到以下错误：\n" + extra_content
         content = MIMEText(mail_content, 'plain', 'utf-8')
         content['Subject'] = "警告！iLearn服务器程序出错"
     elif mailtype == 'report':
-        mail_content = "报告内容如下:\n"
+        mail_content = mail_content + "报告内容如下:\n"
         if extra_content:
             mail_content = mail_content + extra_content
         if extra_dict:
@@ -81,7 +50,7 @@ def send_mail(mailtype, extra_subject=None, extra_content=None, extra_dict=None)
         content = MIMEText(mail_content, 'plain', 'utf-8')
         content['Subject'] = "报告：" + extra_subject
     elif mailtype == 'test':
-        mail_content = "正在适应dell-PowerEdge-T630环境...\n"
+        mail_content = mail_content + "正在适应dell-PowerEdge-T630环境...\n"
         content = MIMEText(mail_content, 'plain', 'utf-8')
         content['Subject'] = "白面鸮发来的测试"
     
@@ -174,8 +143,8 @@ def argument_parser(epilog=None):
     parser.add_argument("--allow-retry", action="store_false", help="Whether to retry when error occurred")
     parser.add_argument("--max-retry", type=int, default=1, help="maximun retry of the command")
 
-    parser.add_argument("--min-memory", type=int, default=MIN_FREE_MEMORY, help="minimum gpu free memory of a gpu (MB)")
-    parser.add_argument("--max-util", type=int, default=MAX_GPU_UTIL, help="maximum gpu utilization rate of a gpu (%)")
+    parser.add_argument("--min-memory", type=int, default=6000, help="minimum gpu free memory of a gpu (MB)")
+    parser.add_argument("--max-util", type=int, default=20, help="maximum gpu utilization rate of a gpu (%)")
     parser.add_argument("--min-gpu", type=int, default=1, help="minimun gpu number that satisfy condition")
     
     #parser.add_argument("--eval-only", action="store_true", help="perform evaluation only")

@@ -1,2 +1,6 @@
 *.out
 *.log
+user.py
+run.sh
+__pycache__
+*.pyc
