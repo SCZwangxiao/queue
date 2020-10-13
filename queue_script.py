@@ -139,7 +139,7 @@ def argument_parser(epilog=None):
     parser = argparse.ArgumentParser()
 
     parser.add_argument("--monitor-interval", type=int, default=60, help="interval of checking gpu information (sec)")
-    parser.add_argument("--measure-duration", type=int, default=10, help="duration of time-averaged gpu information (sec)")
+    parser.add_argument("--measure-duration", type=int, default=5, help="duration of time-averaged gpu information (sec)")
     parser.add_argument("--allow-retry", action="store_false", help="Whether to retry when error occurred")
     parser.add_argument("--max-retry", type=int, default=1, help="maximun retry of the command")
 
@@ -156,7 +156,7 @@ if __name__ == '__main__':
     args = argument_parser().parse_args()
     #Initialization
     logging.basicConfig(level=logging.INFO,
-                        filename='./{}_queue.log'.format(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')),
+                        filename='./{}_queue.log'.format(datetime.datetime.now().strftime('%Y-%m-%d_%H:%M:%S')),
                         filemode='a',
                         format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
     logging.info("PID:%d" % os.getpid())
