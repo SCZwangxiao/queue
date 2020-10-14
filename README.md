@@ -25,6 +25,7 @@ e-mail
 
 define your own command function and user name in `./user.py`:
 ```python
+import np
 COMPUTER_NAME = 'Computer X'
 
 def run_command(free_gpu_id, avg_free_memory, avg_gpu_util):
