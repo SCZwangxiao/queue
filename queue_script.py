@@ -140,7 +140,7 @@ def argument_parser(epilog=None):
 
     parser.add_argument("--monitor-interval", type=int, default=60, help="interval of checking gpu information (sec)")
     parser.add_argument("--measure-duration", type=int, default=10, help="duration of time-averaged gpu information (sec)")
-    parser.add_argument("--allow-retry", action="store_false", help="Whether to retry when error occurred")
+    parser.add_argument("--allow-retry", type=bool, default=False, help="Whether to retry when error occurred")
     parser.add_argument("--max-retry", type=int, default=1, help="maximun retry of the command")
 
     parser.add_argument("--min-memory", type=int, default=6000, help="minimum gpu free memory of a gpu (MB)")
@@ -190,6 +190,7 @@ if __name__ == '__main__':
             else:
                 exception_list[e] = 1
                 send_mail(mailtype='failed', extra_content="Unknown exception:\n"+str(e))
+            exit(0)
         
         total_retry += 1
         time.sleep(args.monitor_interval)
