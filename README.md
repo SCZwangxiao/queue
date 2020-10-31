@@ -25,13 +25,9 @@ e-mail
 
 define your own command function and user name in `./user.py`:
 ```python
-<<<<<<< HEAD
 import subprocess
 import numpy
 
-=======
-import np
->>>>>>> c3fd59f482967299b142fdd0147bb62ce392e304
 COMPUTER_NAME = 'Computer X'
 
 def run_command(free_gpu_id, avg_free_memory, avg_gpu_util):
