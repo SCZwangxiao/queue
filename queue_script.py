@@ -139,12 +139,18 @@ def argument_parser(epilog=None):
     parser = argparse.ArgumentParser()
 
     parser.add_argument("--monitor-interval", type=int, default=60, help="interval of checking gpu information (sec)")
+<<<<<<< HEAD
     parser.add_argument("--measure-duration", type=int, default=10, help="duration of time-averaged gpu information (sec)")
     parser.add_argument("--allow-retry", type=bool, default=False, help="Whether to retry when error occurred")
     parser.add_argument("--max-retry", type=int, default=1, help="maximun retry of the command")
+=======
+    parser.add_argument("--measure-duration", type=int, default=5, help="duration of time-averaged gpu information (sec)")
+    parser.add_argument("--allow-retry", action="store_false", help="Whether to retry when error occurred")
+    parser.add_argument("--max-retry", type=int, default=10, help="maximun retry of the command")
+>>>>>>> c3fd59f482967299b142fdd0147bb62ce392e304
 
     parser.add_argument("--min-memory", type=int, default=6000, help="minimum gpu free memory of a gpu (MB)")
-    parser.add_argument("--max-util", type=int, default=20, help="maximum gpu utilization rate of a gpu (%)")
+    parser.add_argument("--max-util", type=int, default=80, help="maximum gpu utilization rate of a gpu (%)")
     parser.add_argument("--min-gpu", type=int, default=1, help="minimun gpu number that satisfy condition")
     
     #parser.add_argument("--eval-only", action="store_true", help="perform evaluation only")
@@ -156,7 +162,7 @@ if __name__ == '__main__':
     args = argument_parser().parse_args()
     #Initialization
     logging.basicConfig(level=logging.INFO,
-                        filename='./{}_queue.log'.format(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')),
+                        filename='./{}_queue.log'.format(datetime.datetime.now().strftime('%Y-%m-%d_%H:%M:%S')),
                         filemode='a',
                         format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
     logging.info("PID:%d" % os.getpid())
