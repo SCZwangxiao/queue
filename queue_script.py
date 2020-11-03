@@ -66,7 +66,7 @@ def send_mail(mailtype, extra_subject=None, extra_content=None, extra_dict=None)
         ###########################################################################
         smtp_server = smtplib.SMTP_SSL("smtp.163.com", 465) # 第一个参数：smtp服务地址（你发送邮件所使用的邮箱的smtp地址，在网上可以查到，比如qq邮箱为smtp.qq.com） 第二个参数：对应smtp服务地址的端口号
         smtp_server.login("ptilopsis1998@163.com", "CHXSLTPWDIHKLXZA") # 第一个参数：发送者的邮箱账号 第二个参数：对应邮箱账号的密码
-        #################################
+        ###########################################################################
  
         smtp_server.sendmail("ptilopsis1998@163.com", ["1216740594@qq.com"], content.as_string()) # 第一个参数：发送者的邮箱账号；第二个参数是个列表类型，每个元素为一个接收者；第三个参数：邮件内容
         smtp_server.quit() # 发送完成后加上这个函数调用，类似于open文件后要跟一个close文件一样
@@ -145,8 +145,6 @@ def argument_parser(epilog=None):
     parser.add_argument("--min-memory", type=int, default=6000, help="minimum gpu free memory of a gpu (MB)")
     parser.add_argument("--max-util", type=int, default=80, help="maximum gpu utilization rate of a gpu (%)")
     parser.add_argument("--min-gpu", type=int, default=1, help="minimun gpu number that satisfy condition")
-    
-    #parser.add_argument("--eval-only", action="store_true", help="perform evaluation only")
 
     return parser
 
