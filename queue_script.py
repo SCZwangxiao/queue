@@ -89,6 +89,7 @@ def avg_gpu_info(measure_duration, print_info=False):
     handles = [pynvml.nvmlDeviceGetHandleByIndex(i) for i in range(gpu_count)]
     avg_free_memory = [0.0] * gpu_count
     avg_gpu_util = [0.0] * gpu_count
+    assert measure_duration >= 1.
     for _ in range(int(measure_duration)):
         for id, handle in enumerate(handles):
             avg_free_memory[id] = avg_free_memory[id] + pynvml.nvmlDeviceGetMemoryInfo(handle).free/1e6
@@ -164,7 +165,7 @@ if __name__ == '__main__':
     while True:
         try:
             return_code, out, err = queue_protocol(args)
-            if return_code is not 0: # If failed, send report and queue again
+            if return_code != 0: # If failed, send report and queue again
                 print('>>>>>>>>>>>>>>>>>>>>Task error occured:<<<<<<<<<<<<<<<<<<')
                 logging.error(err)
                 send_mail(mailtype='failed', extra_content=err)
