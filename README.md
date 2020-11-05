@@ -80,4 +80,5 @@ E-mail
     ```
     This command means:  
     - The script will check conditions every `600` seconds.
-    - Run command defined in `user.py` when there is at least `1` GPU with more than `5000MB` free memory and less than `20` utilization rate averaged in `10` seconds. 
+    - Run command defined in `user.py` when there is at least `1` GPU with more than `5000MB` free memory and less than `20` utilization rate averaged in `10` seconds.  
+    Remember, `measure-duration` and `monitor-interval` must be >= `1`, high frequency scripts are not allowed!!!

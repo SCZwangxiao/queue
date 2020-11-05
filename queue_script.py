@@ -89,7 +89,6 @@ def avg_gpu_info(measure_duration, print_info=False):
     handles = [pynvml.nvmlDeviceGetHandleByIndex(i) for i in range(gpu_count)]
     avg_free_memory = [0.0] * gpu_count
     avg_gpu_util = [0.0] * gpu_count
-    assert measure_duration >= 1.
     for _ in range(int(measure_duration)):
         for id, handle in enumerate(handles):
             avg_free_memory[id] = avg_free_memory[id] + pynvml.nvmlDeviceGetMemoryInfo(handle).free/1e6
@@ -152,6 +151,9 @@ def argument_parser(epilog=None):
 
 if __name__ == '__main__':
     args = argument_parser().parse_args()
+    # High frequency scripts are not allowed!
+    assert args.measure_duration >= 1.
+    assert args.monitor_interval >= 1.
     #Initialization
     logging.basicConfig(level=logging.INFO,
                         filename='./{}_queue.log'.format(datetime.datetime.now().strftime('%Y-%m-%d_%H:%M:%S')),
